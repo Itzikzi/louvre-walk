@@ -138,11 +138,12 @@ PODS = {}
 for f in ['media_antiquities.json', 'media_paintings.json']:
     m = load(f)
     if not m: continue
-    rows = m if isinstance(m, list) else next(v for v in m.values() if isinstance(v, list)) if any(isinstance(v, list) for v in m.values()) else [e for v in m.values() for e in (v if isinstance(v, list) else [v])]
+    rows = m if isinstance(m, list) else [e for v in m.values() for e in (v if isinstance(v, list) else [v])]
     for e in rows:
         k = e['key']
         if k not in objs or k not in used: continue
-        if e.get('verified') is False and not e.get('keep'): continue
+        whole = int(e.get('start_sec') or 0) == 0 and int(e.get('length_sec') or 999) < 300  # short clip about the work: start is trivially right
+        if e.get('verified') is False and not (e.get('keep') or whole): continue
         st = int(e.get('start_sec') or 0)
         if e.get('length_sec') and st >= int(e['length_sec']): print('BAD start beyond length', k, e['url'], file=sys.stderr); continue
         listen = []
