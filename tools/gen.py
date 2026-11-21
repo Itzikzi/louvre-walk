@@ -152,7 +152,7 @@ for f in ['media_antiquities.json', 'media_paintings.json']:
         if e.get('spotify_url'): listen.append(['Spotify', e['spotify_url']])
         if e.get('apple_url'): listen.append(['Apple Podcasts', e['apple_url']])
         p = {'l': e.get('lang', 'EN'), 'show': e.get('show', ''), 'ep': e.get('ep', ''), 'len': e.get('len', ''), 'listen': listen,
-             'tr': [e.get('transcript_label') or 'Transcript', e['transcript_url']] if e.get('transcript_url') else None,
+             'tr': [e.get('transcript_label') or ('Smarthistory' if 'smarthistory.org' in e['transcript_url'] else 'Transcript'), e['transcript_url']] if e.get('transcript_url') else None,
              'at': e.get('at_he', ''), 'sum': e.get('sum_he', '')}
         pts = []
         for x in e.get('points') or []:
