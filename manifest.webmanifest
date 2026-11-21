@@ -1,0 +1,26 @@
+{
+  "name": "הלובר: מקרא ואמנות",
+  "short_name": "הלובר",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ebe6db",
+  "theme_color": "#2445a3",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "מסלול בלובר: יצירות מופת, התנ\"ך והברית החדשה"
+}

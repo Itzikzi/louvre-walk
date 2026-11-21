@@ -1,0 +1,1772 @@
+{
+ "meta": {
+  "generated": "2026-11-21",
+  "count": 49,
+  "verification": "Location fields parsed from collections.louvre.fr object JSON (records modified up to Aug 2026). The older host collection.louvre.fr failed TLS on 21 Nov 2026; collections.louvre.fr served the same ark records.",
+  "gallery_status_source": "https://www.louvre.fr/en/visit/list-of-available-galleries?day=saturday",
+  "closures_relevant_2026_11": [
+   "Galerie Médicis (Richelieu L2, room 801): currently closed",
+   "Salle 709 (Salle des Sept Mètres): closed until end Nov 2026",
+   "Salle 700 Mollien: closed 1–15 Dec 2026 (open today)",
+   "Denon L0 rooms 400–402 closed (403 Michelangelo gallery not listed as closed)"
+  ],
+  "level_numbering": "Louvre levels: -1 (Cour Marly), 0, 1, 2."
+ },
+ "works": [
+  {
+   "key": "marly_horses",
+   "name_he": "סוסי מארלי",
+   "name_orig": "Chevaux de Marly (Cheval retenu par un palefrenier, ×2)",
+   "artist": "Guillaume Coustou",
+   "date": "1745",
+   "inv": "MR 1802 / MR 1803",
+   "wing": "Richelieu",
+   "level": -1,
+   "room": 102,
+   "room_name": "Cour Marly",
+   "on_display": true,
+   "location_fr": "Richelieu, [SCULPT] Salle 102 - Cour Marly, Salle 102 - RDC",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010091993",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Marly_Horses",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "שני סוסים פראיים מתרוממים על רגליהם האחוריות, ולידם סייס שמנסה לרסן אותם. הם פוסלו עבור גן הטירה של לואי ה-15 במארלי, ובמהפכה הועברו לפתח השאנז אליזה. המקוריים עומדים כאן, בחצר המקורה בזכוכית, ובכיכר הקונקורד עומדים העתקים.",
+   "more_he": [
+    "זה לא פסל של ניצחון האדם על הטבע, אלא מאבק שקול. הסתכלו על השרירים המתוחים ועל המושכות שכמעט אין עליהן שליטה.",
+    "המקוריים הוסרו מהקונקורד ב-1984 בגלל זיהום האוויר, והוחלפו בהעתקים.",
+    "החצר (Cour Marly) קיבלה גג זכוכית ב-1993, כך שהפסלים שוב עומדים באור יום, כמו בגן.",
+    "באותה חצר עומדים גם הסוסים המכונפים של קואזבוקס (Coysevox), שקדמו להם בטירה. השוו ביניהם."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010091993",
+    "https://collections.louvre.fr/ark:/53355/cl010091992",
+    "https://en.wikipedia.org/wiki/Marly_Horses"
+   ],
+   "note": "Record location string says 'Salle 102 - RDC' while its room field gives Niveau -1.",
+   "order": 1
+  },
+  {
+   "key": "michelangelo_slaves",
+   "name_he": "העבד הגוסס והעבד המורד",
+   "name_orig": "Esclave mourant / Esclave rebelle",
+   "artist": "Michelangelo Buonarroti",
+   "date": "1513–1515",
+   "inv": "MR 1590 / MR 1589",
+   "wing": "Denon",
+   "level": 0,
+   "room": 403,
+   "room_name": "Galerie Michel-Ange",
+   "on_display": true,
+   "location_fr": "Denon, [SCULPT] Salle 403 - Galerie Michel-Ange",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010091872",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Dying_Slave",
+    "he": "https://he.wikipedia.org/wiki/העבד_הגוסס_(מיכלאנג'לו)"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "שני פסלים שמיכלאנג'לו גילף לקברו של האפיפיור יוליוס השני ברומא ולא סיים. העבד הגוסס נראה כמי ששוקע בשינה יותר מאשר במוות, והעבד המורד מתפתל ונאבק בכבליו. אלה הפסלים היחידים של מיכלאנג'לו בצרפת שאפשר לראות מקרוב.",
+   "more_he": [
+    "חפשו את עקבות האיזמל שנשארו גלויים, בעיקר בעבד המורד. רואים בהם איך מיכלאנג'לו \"שחרר\" את הדמות מגוש השיש.",
+    "מאחורי רגל העבד הגוסס מסתתר קוף לא גמור. לפי אחד ההסברים הוא מסמל את האמנות, \"הקוף של הטבע\" שמחקה אותו.",
+    "בעבד המורד עובר סדק בשיש על הפנים ועל הכתף. כנראה זו אחת הסיבות שהפסל ננטש.",
+    "מיכלאנג'לו נתן את שני הפסלים לרוברטו סטרוצי, וזה העניק אותם למלך צרפת. הם בצרפת מאז המאה ה-16."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010091872",
+    "https://collections.louvre.fr/ark:/53355/cl010091871",
+    "https://en.wikipedia.org/wiki/Dying_Slave",
+    "https://he.wikipedia.org/wiki/העבד_הגוסס_(מיכלאנג'לו)"
+   ],
+   "note": null,
+   "order": 2
+  },
+  {
+   "key": "canova_psyche",
+   "name_he": "פסיכה מתעוררת מנשיקת קופידון",
+   "name_orig": "L'Amour et Psyché à demi couchée",
+   "artist": "Antonio Canova",
+   "date": "1787–1793",
+   "inv": "MR 1777",
+   "wing": "Denon",
+   "level": 0,
+   "room": 403,
+   "room_name": "Galerie Michel-Ange",
+   "on_display": true,
+   "location_fr": "Denon, [SCULPT] Salle 403 - Galerie Michel-Ange",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010091976",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Psyche_Revived_by_Cupid's_Kiss",
+    "he": "https://he.wikipedia.org/wiki/פסיכה_מתעוררת_מנשיקת_קופידון"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "אמור (קופידון) נוחת ומעיר בנשיקה את פסיכה, שנפלה לשינה דמוית מוות אחרי שפתחה קופסה אסורה. שני הגופים והכנפיים יוצרים צורת X, ובמרכזה המבט ביניהם. שיא הפיסול הניאו-קלאסי.",
+   "more_he": [
+    "הסיפור לקוח מ\"חמור הזהב\" של אפוליוס, סופר רומי מהמאה ה-2.",
+    "קנובה תכנן את הפסל לצפייה מכל הכיוונים, אז הקיפו אותו. מכל זווית הוא נראה אחרת.",
+    "השיש מלוטש עד שהוא נראה כמו עור, והסלע שעליו שוכבת פסיכה מחוספס בכוונה.",
+    "הפסל הוזמן בידי קולונל בריטי, ובסוף קנה אותו יואכים מורא, גיסו של נפוליאון. הוא בלובר מאז 1824."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010091976",
+    "https://en.wikipedia.org/wiki/Psyche_Revived_by_Cupid's_Kiss",
+    "https://he.wikipedia.org/wiki/פסיכה_מתעוררת_מנשיקת_קופידון"
+   ],
+   "note": null,
+   "order": 3
+  },
+  {
+   "key": "raft_medusa",
+   "name_he": "רפסודת המדוזה",
+   "name_orig": "Le radeau de la Méduse",
+   "artist": "Théodore Géricault",
+   "date": "1818–1819",
+   "inv": "INV 4884",
+   "wing": "Denon",
+   "level": 1,
+   "room": 700,
+   "room_name": "Salle Mollien",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010059199",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa",
+    "he": "https://he.wikipedia.org/wiki/רפסודת_המדוזה"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "ב-1816 עלתה הפריגטה הצרפתית \"מדוזה\" על שרטון מול חופי מאוריטניה. כ-150 איש נדחסו לרפסודה, ואחרי 13 ימים של רעב, טירוף וקניבליזם שרדו רק 15. ז'ריקו, בן 27, הפך את השערורייה הפוליטית לציור ענק שבו ההמון, ולא גיבור יחיד, עומד במרכז.",
+   "more_he": [
+    "בציור שתי פירמידות. אחת בנויה מהמתים ומהייאוש. השנייה עולה אל דמות שמנופפת בבד לעבר ספינת ההצלה \"ארגוס\", נקודה זעירה באופק.",
+    "בראש הפירמידה ז'ריקו הציב אדם שחור. זו הייתה אמירה מכוונת נגד העבדות.",
+    "ז'ריקו ראיין ניצולים, בנה דגם של הרפסודה ולמד גופות בבית חולים כדי לצייר את המתים.",
+    "לפי המסורת, הצעיר דלקרואה דגמן לאחת הגופות בחזית.",
+    "הציור הולך ומכהה עם השנים בגלל צבע הביטומן שז'ריקו השתמש בו."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010059199",
+    "https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa",
+    "https://he.wikipedia.org/wiki/רפסודת_המדוזה"
+   ],
+   "note": "Salle 700 (Mollien) closes 1–15 Dec 2026 per the Louvre gallery schedule; open on 21 Nov.",
+   "order": 4
+  },
+  {
+   "key": "liberty",
+   "name_he": "החירות מובילה את העם",
+   "name_orig": "Le 28 juillet 1830. La Liberté guidant le peuple",
+   "artist": "Eugène Delacroix",
+   "date": "1830",
+   "inv": "RF 129",
+   "wing": "Denon",
+   "level": 1,
+   "room": 700,
+   "room_name": "Salle Mollien",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010065872",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Liberty_Leading_the_People",
+    "he": "https://he.wikipedia.org/wiki/החירות_מובילה_את_העם"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "מהפכת יולי 1830 בפריז. אישה חשופת חזה, אלגוריה של החירות, מניפה את הדגל הכחול-לבן-אדום ומובילה את ההמון מעל הבריקדות. הציור שוחזר ב-2023–2024 וחזר לתצוגה עם צבעים בהירים בהרבה.",
+   "more_he": [
+    "מאז השחזור הכחול בדגל והשמיים בהירים בהרבה. אם ראיתם את הציור לפני 2024, ההבדל בולט.",
+    "\"מריאן\" הפכה לסמל הרפובליקה הצרפתית. הכובע הפריגי האדום על ראשה מסמל בנאדם משוחרר.",
+    "הנער עם שני האקדחים נחשב להשראה לגברוש של ויקטור הוגו ב\"עלובי החיים\".",
+    "יש שמזהים את דלקרואה עצמו באיש עם המגבעת. אין לכך הוכחה.",
+    "מגדלי נוטרדאם מבצבצים מימין, בתוך העשן.",
+    "המדינה קנתה את הציור ב-1831, אבל החביאה אותו מהציבור במשך שנים כי נחשב מסוכן פוליטית."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010065872",
+    "https://en.wikipedia.org/wiki/Liberty_Leading_the_People",
+    "https://he.wikipedia.org/wiki/החירות_מובילה_את_העם"
+   ],
+   "note": "Restored 2023–24; collection record shows Salle 700 (on display).",
+   "order": 5
+  },
+  {
+   "key": "sardanapalus",
+   "name_he": "מות סרדנפל",
+   "name_orig": "Mort de Sardanapale",
+   "artist": "Eugène Delacroix",
+   "date": "1827",
+   "inv": "RF 2346",
+   "wing": "Denon",
+   "level": 1,
+   "room": 700,
+   "room_name": "Salle Mollien",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010065757",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus",
+    "he": "https://he.wikipedia.org/wiki/מות_סארדאנאפאלוס"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "סרדנפל, מלך אשורי אגדי, נצור וקרוב להפסד. לפני שיעלה באש הוא מצווה להשמיד את כל רכושו: נשים, סוסים ואוצרות. הוא שוכב אדיש על מיטה אדומה ענקית ומביט בטבח. הציור עורר שערורייה בסלון של 1827.",
+   "more_he": [
+    "המקור הוא מחזה של לורד ביירון מ-1821, לא אירוע היסטורי.",
+    "אין בציור נקודה שקטה. הכול מתפתל לאורך אלכסון אדום אחד מהפינה למעלה.",
+    "הנושא הוא הניגוד בין המבט הרגוע של המלך לבין התוהו סביבו.",
+    "את המלכים האשורים האמיתיים, בתבליטים מנינוה ומדור-שרוכין, תמצאו באגף המזרח הקדום."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010065757",
+    "https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus",
+    "https://he.wikipedia.org/wiki/מות_סארדאנאפאלוס"
+   ],
+   "note": null,
+   "order": 6
+  },
+  {
+   "key": "gros_jaffa",
+   "name_he": "בונפרטה מבקר את חולי המגפה ביפו",
+   "name_orig": "Bonaparte visitant les pestiférés de Jaffa (11 mars 1799)",
+   "artist": "Antoine-Jean Gros",
+   "date": "1804",
+   "inv": "INV 5064",
+   "wing": "Denon",
+   "level": 1,
+   "room": 700,
+   "room_name": "Salle Mollien",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062570",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Bonaparte_Visiting_the_Plague_Victims_of_Jaffa",
+    "he": "https://he.wikipedia.org/wiki/בונפרטה_מבקר_את_קורבנות_המגפה_ביפו"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "מרץ 1799, מסע נפוליאון לארץ ישראל. הגנרל בונפרטה נוגע בחייל חולה דבר בבית חולים מאולתר ביפו, כדי להראות שהוא לא מפחד. זה ציור תעמולה שהוזמן כדי לטשטש את השמועות שנפוליאון הורה להרעיל את החולים בנסיגה.",
+   "more_he": [
+    "הרקע ההיסטורי: יפו נכבשה ב-7 במרץ 1799 ואלפי שבויים הוצאו להורג על החוף. אחר כך פרצה מגפה בצבא.",
+    "לפי המסורת, הסצנה מתרחשת במנזר הארמני ביפו. שימו לב לקשתות המזרחיות ולעיר שברקע.",
+    "קצין שעומד מאחורי נפוליאון מצמיד ממחטה לאף. הניגוד לאומץ של נפוליאון מכוון.",
+    "המחווה מחקה את ישו המרפא במגע, ואת המסורת שמלכי צרפת מרפאים חולים בנגיעה.",
+    "באותו חדר: \"נפוליאון בשדה הקרב באיילאו\", גם של גרו (INV 5067)."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062570",
+    "https://en.wikipedia.org/wiki/Bonaparte_Visiting_the_Plague_Victims_of_Jaffa",
+    "https://he.wikipedia.org/wiki/בונפרטה_מבקר_את_קורבנות_המגפה_ביפו"
+   ],
+   "note": null,
+   "order": 7
+  },
+  {
+   "key": "coronation_napoleon",
+   "name_he": "הכתרת נפוליאון",
+   "name_orig": "Le Couronnement de l'empereur Napoléon Ier et de l'impératrice Joséphine dans la cathédrale Notre-Dame de Paris, le 2 décembre 1804.",
+   "artist": "Jacques-Louis David",
+   "date": "1807",
+   "inv": "INV 3699",
+   "wing": "Denon",
+   "level": 1,
+   "room": 702,
+   "room_name": "Salle Daru",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 702 - Salle Daru, néoclassicisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010065720",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Coronation_of_Napoleon",
+    "he": "https://he.wikipedia.org/wiki/הכתרת_נפוליאון"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "2 בדצמבר 1804, קתדרלת נוטרדאם. נפוליאון כבר הכתיר את עצמו, ועכשיו הוא מניח כתר על ראש ז'וזפין הכורעת. האפיפיור פיוס השביעי יושב מאחוריו ומברך. בד של כ-6 על 10 מטרים עם יותר ממאה דמויות.",
+   "more_he": [
+    "לטיציה, אמו של נפוליאון, יושבת במרכז היציע. בפועל היא לא הגיעה לטקס, ונפוליאון ביקש להוסיף אותה.",
+    "דויד צייר את עצמו ביציע העליון, עם פנקס סקיצות ביד.",
+    "בסקיצות המוקדמות נפוליאון מכתיר את עצמו. דויד החליף לרגע שבו הוא מכתיר את ז'וזפין, שנראה פחות יהיר.",
+    "דויד צייר גרסה שנייה שתלויה בוורסאי. ההבדל הבולט: שמלה ורודה לאחת מאחיות נפוליאון."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010065720",
+    "https://en.wikipedia.org/wiki/The_Coronation_of_Napoleon",
+    "https://he.wikipedia.org/wiki/הכתרת_נפוליאון"
+   ],
+   "note": null,
+   "order": 8
+  },
+  {
+   "key": "oath_horatii",
+   "name_he": "שבועת ההוראטים",
+   "name_orig": "Le serment des Horaces, entre les mains de leur père",
+   "artist": "Jacques-Louis David",
+   "date": "1784",
+   "inv": "INV 3692",
+   "wing": "Denon",
+   "level": 1,
+   "room": 702,
+   "room_name": "Salle Daru",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 702 - Salle Daru, néoclassicisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062239",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Oath_of_the_Horatii",
+    "he": "https://he.wikipedia.org/wiki/שבועת_האחים_ההוראטים"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "שלושה אחים רומאים נשבעים לאביהם להילחם עד מוות בשלושה אחים מהעיר אלבה, למען רומא. מימין הנשים כבר מתאבלות. הציור, שהוזמן בידי המלך לואי ה-16, הפך למניפסט של הניאו-קלאסיציזם ושל ההקרבה למען המולדת, חמש שנים לפני המהפכה.",
+   "more_he": [
+    "הכול בשלשות: שלוש קשתות, שלוש קבוצות, שלוש חרבות.",
+    "הגברים בנויים מקווים ישרים ונוקשים, והנשים מקווים מעוגלים ורכים. ההשוואה מכוונת.",
+    "החרבות ביד האב נמצאות בדיוק במרכז הציור.",
+    "הסוף מטיטוס ליוויוס: רק אח אחד שרד, והוא הרג את אחותו קמילה כשבכתה על ארוסה, אחד האויבים.",
+    "באותו חדר: \"הסבינות\" של דויד (1799)."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062239",
+    "https://en.wikipedia.org/wiki/Oath_of_the_Horatii",
+    "https://he.wikipedia.org/wiki/שבועת_האחים_ההוראטים"
+   ],
+   "note": null,
+   "order": 9
+  },
+  {
+   "key": "grande_odalisque",
+   "name_he": "האודליסק הגדולה",
+   "name_orig": "Une odalisque, dite La grande odalisque",
+   "artist": "Jean-Auguste-Dominique Ingres",
+   "date": "1814",
+   "inv": "RF 1158",
+   "wing": "Denon",
+   "level": 1,
+   "room": 702,
+   "room_name": "Salle Daru",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 702 - Salle Daru, néoclassicisme",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010065566",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Grande_Odalisque",
+    "he": "https://he.wikipedia.org/wiki/האודליסק_הגדולה"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "אישה עירומה בהרמון מזרחי מסובבת אלינו מבט קר מעבר לכתף. את הציור הזמינה קרוליין מורא, אחותו של נפוליאון ומלכת נאפולי. אינגר עיוות את הגוף בכוונה כדי ליצור קו ארוך ואלגנטי.",
+   "more_he": [
+    "מבקרים בני התקופה טענו שלגב שלה יש שתיים או שלוש חוליות מיותרות. גם הזרוע והרגל מוארכות.",
+    "פרטים \"מזרחיים\": נרגילה, מניפת נוצות טווס, טורבן ותכשיטים.",
+    "אינגר מעולם לא ביקר במזרח. כל ההרמון דמיוני.",
+    "אינגר היה תלמידו של דויד. השוו את הקו הנקי שלו לציורים של דויד באותו חדר."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010065566",
+    "https://en.wikipedia.org/wiki/Grande_Odalisque",
+    "https://he.wikipedia.org/wiki/האודליסק_הגדולה"
+   ],
+   "note": null,
+   "order": 10
+  },
+  {
+   "key": "cimabue_maesta",
+   "name_he": "מאסטה – המדונה בהדרה (צ'ימבואה)",
+   "name_orig": "La Vierge et l'Enfant en majesté entourés de six anges (Maestà)",
+   "artist": "Cimabue",
+   "date": "1275–1300",
+   "inv": "INV 254",
+   "wing": "Denon",
+   "level": 1,
+   "room": 708,
+   "room_name": "Salon Carré",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 708 - Salon Carré",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064463",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Maestà_(Cimabue)",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "מרים על כס מלכות עם ישו התינוק ושישה מלאכים. זו אחת היצירות שפתחו את הציור האיטלקי ויצאו מהמסורת הביזנטית. שחזור גדול הסיר לכות צהובות והחזיר את הכחול והזהב, והציור הוצג בתערוכה ב-2025. היום הוא תלוי בסלון קארה.",
+   "more_he": [
+    "השוו לאיקונות ביזנטיות: הפנים עדיין סכמטיים, אבל הכס מצויר עם עומק ונפח.",
+    "השחזור חשף בשולי הגלימות כתב פסאודו-ערבי, שמחקה את הבדים היוקרתיים שהגיעו מהמזרח.",
+    "במסגרת יש עשרות מדליונים קטנים עם פרצופים של מלאכים, נביאים וקדושים.",
+    "הציור הגיע מכנסיית סן פרנצ'סקו בפיזה, שלל מתקופת נפוליאון שלא הוחזר."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064463",
+    "https://en.wikipedia.org/wiki/Maestà_(Cimabue)"
+   ],
+   "note": "Restored ~2022–24; shown in 2025 exhibition (Salle 717), record now gives Salle 708 Salon Carré.",
+   "order": 11
+  },
+  {
+   "key": "giotto_francis",
+   "name_he": "פרנציסקוס הקדוש מקבל את הסטיגמטה",
+   "name_orig": "Saint François d'Assise recevant les stigmates",
+   "artist": "Giotto di Bondone",
+   "date": "1300–1325",
+   "inv": "INV 309",
+   "wing": "Denon",
+   "level": 1,
+   "room": 708,
+   "room_name": "Salon Carré",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 708 - Salon Carré",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064459",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Saint_Francis_Receiving_the_Stigmata_(Giotto)",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "פרנציסקוס מאסיזי מקבל את הסטיגמטה, פצעי הצליבה של ישו, משרף מכונף בדמות ישו. זו אחת היצירות הבודדות שג'וטו חתם עליהן, והחתימה מופיעה על המסגרת.",
+   "more_he": [
+    "קווים זהובים דקים מחברים את פצעי ישו לידיים, לרגליים ולצד של פרנציסקוס.",
+    "בפרדלה (הרצועה התחתונה) שלוש סצנות קטנות. חפשו את הדרשה לציפורים.",
+    "הגוף של פרנציסקוס כורע ומתפתל. זו כבר לא דמות ביזנטית שטוחה.",
+    "החתימה בלטינית על המסגרת: OPUS IOCTI FLORENTINI."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064459",
+    "https://en.wikipedia.org/wiki/Saint_Francis_Receiving_the_Stigmata_(Giotto)"
+   ],
+   "note": null,
+   "order": 12
+  },
+  {
+   "key": "fra_angelico_coronation",
+   "name_he": "הכתרת הבתולה",
+   "name_orig": "Le Couronnement de la Vierge",
+   "artist": "Fra Angelico",
+   "date": "1425–1450",
+   "inv": "INV 314",
+   "wing": "Denon",
+   "level": 1,
+   "room": 708,
+   "room_name": "Salon Carré",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 708 - Salon Carré",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064473",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "ישו מכתיר את מרים בשמיים, ומתחתם המון קדושים ומלאכים בצבעים בוהקים. פרא אנג'ליקו, נזיר דומיניקני, צייר את המזבח לכנסיית המנזר שלו בפייזולה, ליד פירנצה.",
+   "more_he": [
+    "מדרגות השיש בפרספקטיבה מובילות את העין אל הכס.",
+    "נסו לזהות קדושים לפי הסמלים שלהם, למשל הגלגל של קתרינה והכבש של אגנס.",
+    "בפרדלה מסופרים חיי דומיניקוס הקדוש, מייסד המסדר של הצייר.",
+    "ההכתרה לא מופיעה בברית החדשה. זו מסורת כנסייתית מאוחרת."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064473",
+    "https://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)"
+   ],
+   "note": null,
+   "order": 13
+  },
+  {
+   "key": "mantegna_crucifixion",
+   "name_he": "הצליבה (מנטניה)",
+   "name_orig": "La Crucifixion",
+   "artist": "Andrea Mantegna",
+   "date": "after 1456–1459",
+   "inv": "INV 368",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (1ère travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064446",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Crucifixion_(Mantegna)",
+    "he": null
+   },
+   "bible": "מתי כז:33–56",
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "שלושה צלובים על גולגותא. מתחתם חיילים רומאים מטילים גורל על בגדי ישו, ומרים מתמוטטת בין הנשים. זה הלוח המרכזי בפרדלה של מזבח סן זנו בוורונה.",
+   "more_he": [
+    "ההר מרוצף באבנים כמו כיכר. מנטניה משתמש בריצוף כדי לבנות פרספקטיבה.",
+    "החיילים מטילים קובייה על הגלימה, כמו ביוחנן יט:23–24.",
+    "הגולגולת בבסיס הצלב: \"גולגותא\" פירושו מקום הגולגולת, ולפי המסורת זו גולגולתו של אדם הראשון.",
+    "נפוליאון לקח את המזבח. הלוח הראשי חזר לוורונה, ושני לוחות אחרים מהפרדלה נמצאים בטור."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064446",
+    "https://en.wikipedia.org/wiki/Crucifixion_(Mantegna)"
+   ],
+   "note": null,
+   "order": 14
+  },
+  {
+   "key": "mantegna_sebastian",
+   "name_he": "סבסטיאנוס הקדוש (מנטניה)",
+   "name_orig": "Saint Sébastien",
+   "artist": "Andrea Mantegna",
+   "date": "1475–1500",
+   "inv": "RF 1766",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (1ère travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064796",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Saint_Sebastian_(Mantegna)",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 3,
+   "desc_he": "סבסטיאנוס, חייל רומי שהוצא להורג בחיצים בגלל אמונתו, קשור לעמוד של קשת רומית הרוסה. מנטניה, שאהב עתיקות, הפך את הקדוש לפסל קלאסי חי.",
+   "more_he": [
+    "ליד רגליו מונחים שברי פסלים רומיים: הנצרות מנצחת את העולם האלילי.",
+    "בפינה הימנית התחתונה רואים ראשים של שני קשתים, חתוכים במסגרת, כאילו הם עומדים בינינו לבין הקדוש.",
+    "הפנים מופנות למעלה, כמעט בלי סבל.",
+    "הציור היה במשך מאות שנים בכנסייה באיגפרס שבמרכז צרפת."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064796",
+    "https://en.wikipedia.org/wiki/Saint_Sebastian_(Mantegna)"
+   ],
+   "note": null,
+   "order": 15
+  },
+  {
+   "key": "virgin_of_the_rocks",
+   "name_he": "הבתולה בין הסלעים",
+   "name_orig": "La Vierge, l'Enfant Jésus, saint Jean Baptiste et un ange, dit La Vierge aux rochers",
+   "artist": "Leonardo da Vinci",
+   "date": "c. 1483–1494",
+   "inv": "INV 777",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (2e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062373",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Virgin_of_the_Rocks",
+    "he": "https://he.wikipedia.org/wiki/המדונה_בין_הסלעים"
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 1,
+   "desc_he": "מרים, ישו התינוק, יוחנן המטביל התינוק ומלאך, במערה סלעית. זו הגרסה הראשונה מתוך שתיים, והשנייה בנשיונל גלרי בלונדון. כאן רואים את הספומטו של לאונרדו, המעבר העמום בין אור לצל.",
+   "more_he": [
+    "הסצנה לא מופיעה בברית החדשה. היא מבוססת על מסורת על מפגש של ישו ויוחנן כתינוקות בזמן הבריחה למצרים.",
+    "עקבו אחרי הידיים: המלאך מצביע על יוחנן, ויד של מרים מרחפת מעל ישו. כך כל הדמויות מחוברות.",
+    "בגרסה הלונדונית יש הילות, ויוחנן מחזיק צלב. כאן אין הילות, והמלאך מצביע.",
+    "הצמחים בחזית מצוירים בדיוק של בוטנאי.",
+    "המזמינים במילאנו התווכחו עם לאונרדו על התשלום, וזו כנראה הסיבה שיש שתי גרסאות."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062373",
+    "https://en.wikipedia.org/wiki/Virgin_of_the_Rocks",
+    "https://he.wikipedia.org/wiki/המדונה_בין_הסלעים"
+   ],
+   "note": null,
+   "order": 16
+  },
+  {
+   "key": "st_anne",
+   "name_he": "הבתולה והילד עם אנה הקדושה",
+   "name_orig": "La Vierge, l'Enfant Jésus et sainte Anne, dit La Sainte Anne",
+   "artist": "Leonardo da Vinci",
+   "date": "c. 1503–1519",
+   "inv": "INV 776",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (2e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010066107",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)",
+    "he": "https://he.wikipedia.org/wiki/אנה_הקדושה,_הבתולה_וישו_הילד_(דה_וינצ'י)"
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "שלושה דורות: אנה, סבתו של ישו, בתה מרים שיושבת על ברכיה, וישו הילד שתופס כבש. לאונרדו עבד על הציור כ-15 שנה ולא סיים אותו.",
+   "more_he": [
+    "הכבש מסמל את הקורבן. מרים מנסה למשוך את הילד ממנו, ואנה מחייכת כאילו כבר יודעת שהגורל בלתי נמנע.",
+    "הקומפוזיציה בנויה כפירמידה. השוו לגננת היפה של רפאל באותו חדר.",
+    "הנוף הכחול ברקע דומה לנוף שמאחורי המונה ליזה.",
+    "השחזור ב-2011–2012 עורר מחלוקת חריפה, ושני מומחים התפטרו מוועדת הליווי.",
+    "פרויד טען שהוא רואה בגלימה של מרים צורת עוף דורס. הפירוש שלו נשען על טעות תרגום."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010066107",
+    "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)",
+    "https://he.wikipedia.org/wiki/אנה_הקדושה,_הבתולה_וישו_הילד_(דה_וינצ'י)"
+   ],
+   "note": null,
+   "order": 17
+  },
+  {
+   "key": "st_john_baptist",
+   "name_he": "יוחנן המטביל (לאונרדו)",
+   "name_orig": "Saint Jean Baptiste",
+   "artist": "Leonardo da Vinci",
+   "date": "c. 1508–1519",
+   "inv": "INV 775",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (2e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062374",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Leonardo)",
+    "he": "https://he.wikipedia.org/wiki/יוחנן_המטביל_(דה_וינצ'י)"
+   },
+   "bible": "יוחנן א:29",
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "יוחנן המטביל מגיח מחושך מוחלט, מחייך חיוך מסתורי ומצביע למעלה. כנראה זה הציור האחרון של לאונרדו, והוא שמר אותו אצלו עד מותו בצרפת.",
+   "more_he": [
+    "האצבע שמצביעה לשמיים: המטביל מבשר על ביאת ישו.",
+    "בידו השמאלית צלב דק מקנה, כמעט בלתי נראה בחושך.",
+    "הפרווה על כתפיו רומזת ללבוש שלו במדבר (מתי ג:4).",
+    "השוו את החיוך לחיוך של המונה ליזה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062374",
+    "https://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Leonardo)",
+    "https://he.wikipedia.org/wiki/יוחנן_המטביל_(דה_וינצ'י)"
+   ],
+   "note": null,
+   "order": 18
+  },
+  {
+   "key": "belle_jardiniere",
+   "name_he": "הגננת היפה",
+   "name_orig": "La Vierge à l'Enfant avec le petit saint Jean Baptiste",
+   "artist": "Raphael",
+   "date": "1507",
+   "inv": "INV 602",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (2e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010060754",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/La_belle_jardinière",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "מרים יושבת בנוף כפרי, ישו הילד נשען על ברכיה, ויוחנן המטביל הקטן כורע מימין. את השם \"הגננת היפה\" קיבל הציור במאה ה-18, בגלל הצמחייה.",
+   "more_he": [
+    "פירמידה מושלמת: רפאל למד את המבנה מלאונרדו בפירנצה. השוו לאנה הקדושה באותו חדר.",
+    "ההילות דקות כחוט ובקושי רואים אותן.",
+    "יוחנן מחזיק מקל עם צלב, רמז לצליבה.",
+    "החתימה והשנה (1507) מופיעות בשולי הגלימה של מרים."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010060754",
+    "https://en.wikipedia.org/wiki/La_belle_jardinière"
+   ],
+   "note": null,
+   "order": 19
+  },
+  {
+   "key": "raphael_st_michael",
+   "name_he": "מיכאל המלאך מכניע את השטן",
+   "name_orig": "Saint Michel terrassant le démon, dit Le Grand Saint Michel",
+   "artist": "Raphael",
+   "date": "1518",
+   "inv": "INV 610",
+   "wing": "Denon",
+   "level": 1,
+   "room": 710,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 710 - Grande Galerie, Salle 710 - (2e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010060771",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Saint_Michael_Vanquishing_Satan",
+    "he": null
+   },
+   "bible": "התגלות יב:7–9",
+   "testament": "NT",
+   "tier": 3,
+   "desc_he": "המלאך מיכאל מנחית חנית על השטן שמתחת לרגליו. זו הייתה מתנה מהאפיפיור לאו העשירי למלך צרפת פרנסואה הראשון.",
+   "more_he": [
+    "מיכאל כמעט לא נוגע בקרקע. הוא מרחף, והניצחון נראה קל.",
+    "השטן הוא חצי אדם וחצי דרקון, עם כנפי עטלף.",
+    "פרנסואה הראשון עמד בראש מסדר סן מישל, כך שהנושא היה מחמאה למלך.",
+    "שימו לב לשריון המבריק ולהשתקפויות האור עליו."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010060771",
+    "https://en.wikipedia.org/wiki/Saint_Michael_Vanquishing_Satan"
+   ],
+   "note": null,
+   "order": 20
+  },
+  {
+   "key": "mona_lisa",
+   "name_he": "המונה ליזה (לה ג'וקונדה)",
+   "name_orig": "Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dit La Joconde ou Monna Lisa",
+   "artist": "Leonardo da Vinci",
+   "date": "1503–1519",
+   "inv": "INV 779",
+   "wing": "Denon",
+   "level": 1,
+   "room": 711,
+   "room_name": "Salle de la Joconde",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062370",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "he": "https://he.wikipedia.org/wiki/מונה_ליזה"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "דיוקן של ליזה גרארדיני, אשת סוחר בדים מפירנצה. לאונרדו לא מסר את הציור למזמין ולקח אותו איתו לצרפת, שם נפטר. היום הוא תלוי מאחורי זכוכית מוגנת בחדר הגדול במוזיאון, סאל דז אטה.",
+   "more_he": [
+    "ספומטו: אין קווי מתאר, במיוחד בזוויות הפה והעיניים. לכן נדמה שהחיוך משתנה.",
+    "האופק משמאל נמוך מהאופק מימין. הנוף לא סימטרי בכוונה.",
+    "אין לה כמעט גבות וריסים. ייתכן שהם נמחקו בניקויים.",
+    "ב-1911 גנב אותה פועל איטלקי, והיא נמצאה אחרי שנתיים. הגניבה הפכה אותה לציור המפורסם בעולם.",
+    "טיפ: אחרי התור הסתובבו לאחור. מולה תלוי \"החתונה בקנה\".",
+    "בעתיד מתוכנן לה חדר נפרד במסגרת שיפוץ הלובר. כרגע היא עדיין בחדר 711."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062370",
+    "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "https://he.wikipedia.org/wiki/מונה_ליזה"
+   ],
+   "note": null,
+   "order": 21
+  },
+  {
+   "key": "wedding_cana",
+   "name_he": "החתונה בקנה",
+   "name_orig": "Les Noces de Cana",
+   "artist": "Paolo Veronese",
+   "date": "1562–1563",
+   "inv": "INV 142",
+   "wing": "Denon",
+   "level": 1,
+   "room": 711,
+   "room_name": "Salle de la Joconde",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064382",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Wedding_at_Cana_(Veronese)",
+    "he": "https://he.wikipedia.org/wiki/החתונה_בקנה_(ורונזה)"
+   },
+   "bible": "יוחנן ב:1–11",
+   "testament": "NT",
+   "tier": 1,
+   "desc_he": "נס הפיכת המים ליין בחתונה בקנה שבגליל, מצויר כמשתה ונציאני ענק עם כ-130 דמויות. זה הציור הגדול ביותר בלובר, כ-6.8 על 10 מטרים, והוא תלוי מול המונה ליזה.",
+   "more_he": [
+    "ישו יושב בדיוק במרכז ומביט אלינו. מעליו, על המרפסת, חותכים בשר: רמז לקורבן שיבוא.",
+    "לפי המסורת, הנגנים בחזית הם ציירי ונציה: ורונזה עצמו בלבן, וטיציאן באדום עם הוויולה הגדולה.",
+    "על השולחן לפני הנגנים עומד שעון חול. זה רמז לדברי ישו \"עוד לא באה שעתי\" (יוחנן ב:4).",
+    "הנס קורה בשוליים: מימין משרת מוזג את היין מהכדים.",
+    "נפוליאון לקח את הציור ממנזר סן ג'ורג'ו מאג'ורה בוונציה ב-1797. כדי להעביר אותו חתכו את הבד לחלקים."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064382",
+    "https://en.wikipedia.org/wiki/The_Wedding_at_Cana_(Veronese)",
+    "https://he.wikipedia.org/wiki/החתונה_בקנה_(ורונזה)"
+   ],
+   "note": null,
+   "order": 22
+  },
+  {
+   "key": "titian_entombment",
+   "name_he": "ההובלה אל הקבר (טיציאן)",
+   "name_orig": "La Mise au tombeau ou Le Transport du Christ vers le tombeau",
+   "artist": "Titian",
+   "date": "c. 1520",
+   "inv": "INV 749",
+   "wing": "Denon",
+   "level": 1,
+   "room": 711,
+   "room_name": "Salle de la Joconde",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Vestibule Salle des Etats)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062279",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Entombment_of_Christ_(Titian)",
+    "he": null
+   },
+   "bible": "יוחנן יט:38–42",
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "יוסף מארמתיה וניקודימוס נושאים את גופת ישו אל הקבר, ואחריהם מרים ויוחנן. הפנים של ישו בצל, באור דמדומים אחרי הצליבה.",
+   "more_he": [
+    "הגוף כמעט נוגע בקרקע, ומורגש בו כובד המוות.",
+    "מרים המגדלית תומכת במרים האם, ששבורה מצער.",
+    "שימו לב לצבעים החמים של טיציאן: האדום של יוחנן מול הגוף החיוור.",
+    "הציור עבר מאוסף גונזגה במנטובה לצ'ארלס הראשון מאנגליה, ומשם ללואי ה-14.",
+    "הוא תלוי בפרוזדור (Vestibule) של סאל דז אטה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062279",
+    "https://en.wikipedia.org/wiki/The_Entombment_of_Christ_(Titian)"
+   ],
+   "note": null,
+   "order": 23
+  },
+  {
+   "key": "castiglione",
+   "name_he": "דיוקן בלדסרה קסטיליונה",
+   "name_orig": "Balthazar Castiglione (1478-1529), écrivain et diplomate",
+   "artist": "Raphael",
+   "date": "c. 1514–1515",
+   "inv": "INV 611",
+   "wing": "Denon",
+   "level": 1,
+   "room": 712,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 712 - Grande Galerie, Salle 712 - (Tribune)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010066418",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Portrait_of_Baldassare_Castiglione",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "דיוקן של הדיפלומט והסופר בלדסרה קסטיליונה, חברו של רפאל ומחבר \"ספר החצרן\". רפאל השתמש בפלטה מצומצמת של אפור, שחור ולבן, והמבט הישיר של קסטיליונה השפיע על רמברנדט, רובנס ומאטיס.",
+   "more_he": [
+    "רמברנדט ראה את הציור במכירה פומבית באמסטרדם ב-1639, שרטט אותו, ואחר כך צייר את עצמו בתנוחה דומה.",
+    "הידיים חתוכות בתחתית התמונה, וזה מקרב אותנו אליו.",
+    "הכובע והפרווה הם תרגיל בגווני אפור.",
+    "\"ספר החצרן\" קבע את דמות הג'נטלמן האירופי."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010066418",
+    "https://en.wikipedia.org/wiki/Portrait_of_Baldassare_Castiglione"
+   ],
+   "note": null,
+   "order": 24
+  },
+  {
+   "key": "caravaggio_death_virgin",
+   "name_he": "מות הבתולה (קאראווג'ו)",
+   "name_orig": "La Mort de la Vierge",
+   "artist": "Caravaggio",
+   "date": "c. 1601–1606",
+   "inv": "INV 54",
+   "wing": "Denon",
+   "level": 1,
+   "room": 712,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 712 - Grande Galerie, Salle 712 - (3e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062304",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 1,
+   "desc_he": "מרים מתה ושוכבת על מיטה פשוטה, יחפה ונפוחה. סביבה השליחים בוכים, ומרים המגדלית מכונסת בעצמה. הכנסייה ברומא שהזמינה את הציור דחתה אותו כלא ראוי.",
+   "more_he": [
+    "לפי שמועה עקשנית, המודל הייתה אישה שטבעה בטיבר. מכאן הגוף הנפוח.",
+    "יש רק הילה דקה מאוד מעל ראשה. אין מלאכים ואין עלייה השמימה. זה מוות אנושי לגמרי.",
+    "את מקום המלאכים תופס וילון אדום ענק, כמו בתיאטרון.",
+    "רובנס המליץ לדוכס מנטובה לקנות את הציור. אחר כך הוא עבר לצ'ארלס הראשון ולואי ה-14.",
+    "מות מרים לא מתואר בברית החדשה. הנושא בא מהמסורת."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062304",
+    "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)"
+   ],
+   "note": null,
+   "order": 25
+  },
+  {
+   "key": "caravaggio_fortune_teller",
+   "name_he": "מגדת העתידות",
+   "name_orig": "La diseuse de bonne aventure",
+   "artist": "Caravaggio",
+   "date": "c. 1595–1598",
+   "inv": "INV 55",
+   "wing": "Denon",
+   "level": 1,
+   "room": 712,
+   "room_name": "Grande Galerie",
+   "on_display": true,
+   "location_fr": "Denon, [Peint] Salle 712 - Grande Galerie, Salle 712 - (3e travée)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062329",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Fortune_Teller_(Caravaggio)",
+    "he": "https://he.wikipedia.org/wiki/מגדת_העתידות_(קאראווג'ו)"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "צוענייה צעירה קוראת בכף ידו של צעיר מגונדר, ובאותו זמן מחליקה את הטבעת מאצבעו. זו סצנה יומיומית שהפכה ללהיט, ודורות של ציירים חיקו אותה.",
+   "more_he": [
+    "הסתכלו על האצבעות של הצוענייה. הטבעת כבר בדרך החוצה.",
+    "הצעיר מביט בעיניה ולא שם לב למה שקורה בידו.",
+    "אין רקע, רק קיר ואור שנופל באלכסון.",
+    "גרסה מוקדמת של הציור נמצאת במוזיאון הקפיטוליני ברומא."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062329",
+    "https://en.wikipedia.org/wiki/The_Fortune_Teller_(Caravaggio)",
+    "https://he.wikipedia.org/wiki/מגדת_העתידות_(קאראווג'ו)"
+   ],
+   "note": null,
+   "order": 26
+  },
+  {
+   "key": "napoleon3_apartments",
+   "name_he": "דירות נפוליאון השלישי",
+   "name_orig": "Appartements Napoléon III",
+   "artist": "Second Empire decor (Hector Lefuel)",
+   "date": "1852–1870",
+   "inv": null,
+   "wing": "Richelieu",
+   "level": 1,
+   "room": 544,
+   "room_name": "Appartements Napoléon III (Grand Salon 544, salon-théâtre 545)",
+   "on_display": true,
+   "collection_url": null,
+   "location_fr": null,
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Napoleon_III's_Louvre_expansion",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "דירת הייצוג של שר המדינה בתקופת הקיסרות השנייה: זהב, קטיפה אדומה ונברשות ענק. כאן אפשר לראות איך נראה הלובר כשהיה ארמון ולא מוזיאון.",
+   "more_he": [
+    "הסלון הגדול (חדר 544) הפך לפי הצורך לתיאטרון של כ-250 מקומות, עם במה לנגנים.",
+    "חדר האוכל הגדול ערוך כאילו האורחים עומדים להגיע.",
+    "משרד האוצר ישב כאן עד 1989. הדירות פתוחות לקהל מ-1993, ושופצו לאחרונה ב-2024.",
+    "נפוליאון השלישי, אחיינו של נפוליאון, השלים את בניין הלובר וחיבר אותו לארמון הטווילרי."
+   ],
+   "sources": [
+    "https://www.louvre.fr/en/explore/the-palace/the-splendour-of-the-second-empire",
+    "https://www.louvre.fr/en/visit/list-of-available-galleries?day=saturday",
+    "https://en.wikipedia.org/wiki/Napoleon_III's_Louvre_expansion"
+   ],
+   "note": "Not a collection object; room numbers from louvre.fr 'Splendour of the Second Empire' page. Listed open in Nov 2026 schedule.",
+   "order": 27
+  },
+  {
+   "key": "holbein_erasmus",
+   "name_he": "דיוקן ארסמוס כותב",
+   "name_orig": "Portrait d'Érasme (1467-1536) écrivant",
+   "artist": "Hans Holbein the Younger",
+   "date": "1523",
+   "inv": "INV 1345",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 809,
+   "room_name": "Allemagne",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 809 - Allemagne, 16e siècle",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062617",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 3,
+   "desc_he": "ההומניסט ארסמוס מרוטרדם, בפרופיל, שקוע בכתיבה. הולביין צייר כמה גרסאות שארסמוס שלח לחבריו ברחבי אירופה, מעין כרטיס ביקור.",
+   "more_he": [
+    "הפרופיל המדויק והעיניים המושפלות אל הדף משדרים ריכוז שקט.",
+    "ארסמוס הוציא ב-1516 את המהדורה המודפסת הראשונה של הברית החדשה ביוונית.",
+    "בזכות מכתב המלצה של ארסמוס עבר הולביין ללונדון, ובהמשך היה לצייר החצר של הנרי השמיני."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062617",
+    "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+   ],
+   "note": "Record date string reads '1e quart du XVIe siècle (1528)', which is self-contradictory; 1523 is the commonly given date.",
+   "order": 28
+  },
+  {
+   "key": "bosch_ship_of_fools",
+   "name_he": "ספינת השוטים",
+   "name_orig": "La Nef des fous",
+   "artist": "Hieronymus Bosch",
+   "date": "c. 1500",
+   "inv": "RF 2218",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 815,
+   "room_name": "Pays-Bas du Nord",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 815 - Pays-Bas du Nord, 1500-1550",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062860",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Ship_of_Fools_(painting)",
+    "he": "https://he.wikipedia.org/wiki/ספינת_השוטים_(הירונימוס_בוש)"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "נזיר ונזירה שרים ושותים בסירה בלי משוטים, ואחרים מטפסים על התורן כדי לחטוף עוף צלוי. זו סאטירה על חוטאים ועל אנשי הכנסייה.",
+   "more_he": [
+    "הנזיר והנזירה מנסים לנגוס ברקיק שתלוי על חוט.",
+    "הליצן יושב בצד ושותה, מנותק מכולם.",
+    "התורן הוא עץ חי, ובצמרת שלו ינשוף, סמל לחטא ולטיפשות.",
+    "זה חלק מטריפטיך שנחתך. חלק נוסף ממנו נמצא באוניברסיטת ייל."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062860",
+    "https://en.wikipedia.org/wiki/Ship_of_Fools_(painting)",
+    "https://he.wikipedia.org/wiki/ספינת_השוטים_(הירונימוס_בוש)"
+   ],
+   "note": null,
+   "order": 29
+  },
+  {
+   "key": "van_eyck_rolin",
+   "name_he": "המדונה של הקנצלר רולן",
+   "name_orig": "La Vierge du chancelier Rolin",
+   "artist": "Jan van Eyck",
+   "date": "c. 1430–1435",
+   "inv": "INV 1271",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 818,
+   "room_name": "Peindre pour les marchands",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 818 - Peindre pour les marchands",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010061856",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin",
+    "he": "https://he.wikipedia.org/wiki/המדונה_של_הקנצלר_רולן"
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 1,
+   "desc_he": "הקנצלר ניקולא רולן, איש החצר של דוכס בורגונדי, כורע בתפילה מול מרים וישו, באותו חדר ובאותו גובה. מאחוריהם עיר ונהר בפרטים מיקרוסקופיים. כדאי להתקרב לזכוכית.",
+   "more_he": [
+    "בכותרות העמודים משמאל יש תבליטים מספר בראשית: הגירוש מגן עדן, קין והבל, ושכרותו של נח.",
+    "מעבר לקשתות עומדות על החומה שתי דמויות קטנות שמביטות לנהר. יש שמזהים באחת, זו עם הטורבן האדום, דיוקן עצמי של ואן אייק.",
+    "על הגשר שמעל הנהר יש עשרות דמויות זעירות.",
+    "בגינה צומחים שושנים, חבצלות ואירוסים, הפרחים הסמליים של מרים.",
+    "מלאך מחזיק כתר מעל ראשה של מרים."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010061856",
+    "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin",
+    "https://he.wikipedia.org/wiki/המדונה_של_הקנצלר_רולן"
+   ],
+   "note": null,
+   "order": 30
+  },
+  {
+   "key": "poussin_four_seasons",
+   "name_he": "ארבע העונות (פוסן)",
+   "name_orig": "Les Quatre Saisons (Le Printemps, L'Été, L'Automne, L'Hiver)",
+   "artist": "Nicolas Poussin",
+   "date": "1660–1664",
+   "inv": "INV 7303 / 7304 / 7305 / 7306",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 825,
+   "room_name": "Nicolas Poussin (1594-1665) : les chefs-d’œuvre",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 825 - Nicolas Poussin (1594-1665) : les chefs-d’œuvre",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062521",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Four_Seasons_(Poussin)",
+    "he": "https://he.wikipedia.org/wiki/האביב_(ניקולא_פוסן)"
+   },
+   "bible": "בראשית ב–ג; רות ב; במדבר יג:23; בראשית ז",
+   "testament": "OT",
+   "tier": 1,
+   "desc_he": "ארבעת הציורים האחרונים של פוסן. כל אחד מהם הוא עונה וגם סיפור מהתנ\"ך: באביב אדם וחוה בגן עדן, בקיץ רות ובועז בשדה, בסתיו המרגלים חוזרים מכנען עם אשכול ענבים, ובחורף המבול. ארבעתם תלויים יחד.",
+   "more_he": [
+    "אביב (בראשית ב): אדם וחוה קטנים בתוך גן ענק, ואלוהים חולף בשמיים. זה הרגע שלפני החטא.",
+    "קיץ (רות ב:1–8): רות כורעת לפני בועז בשדה, ומסביב הקוצרים עובדים.",
+    "סתיו (במדבר יג:23): שני מרגלים נושאים על מוט אשכול ענבים ענק. זה הסמל המוכר של משרד התיירות.",
+    "חורף (בראשית ז): המבול. אנשים נאחזים בסלעים, נחש זוחל, ותיבת נח נראית מרחוק. הציור כמעט חסר צבע.",
+    "הסדרה הוזמנה בידי הדוכס דה רישלייה ונמכרה ללואי ה-14. ידיו של פוסן כבר רעדו בזמן הציור."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062521",
+    "https://collections.louvre.fr/ark:/53355/cl010062513",
+    "https://collections.louvre.fr/ark:/53355/cl010062440",
+    "https://collections.louvre.fr/ark:/53355/cl010066113",
+    "https://en.wikipedia.org/wiki/The_Four_Seasons_(Poussin)",
+    "https://he.wikipedia.org/wiki/האביב_(ניקולא_פוסן)"
+   ],
+   "note": null,
+   "order": 31
+  },
+  {
+   "key": "poussin_manna",
+   "name_he": "המן במדבר",
+   "name_orig": "La Manne",
+   "artist": "Nicolas Poussin",
+   "date": "1638–1639",
+   "inv": "INV 7275",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 825,
+   "room_name": "Nicolas Poussin (1594-1665) : les chefs-d’œuvre",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 825 - Nicolas Poussin (1594-1665) : les chefs-d’œuvre",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062511",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Manna_(Poussin)",
+    "he": "https://he.wikipedia.org/wiki/המן_(פוסן)"
+   },
+   "bible": "שמות טז:14–15",
+   "testament": "OT",
+   "tier": 2,
+   "desc_he": "בני ישראל במדבר אוספים את המן שירד מהשמיים, ומשה ואהרן עומדים ברקע. פוסן רצה שיקראו את הציור כמו טקסט, וכל דמות מגיבה לנס בדרך אחרת.",
+   "more_he": [
+    "משמאל אישה צעירה מניקה את אמה הזקנה. זו סצנת רחמים שמבוססת על סיפור רומי.",
+    "משה, בבגד אדום, מצביע לשמיים.",
+    "חפשו את הדמויות שעוד לא יודעות על הנס ואת אלה שכבר נאבקות על האוכל.",
+    "הציור היה שייך ללואי ה-14."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062511",
+    "https://en.wikipedia.org/wiki/The_Manna_(Poussin)",
+    "https://he.wikipedia.org/wiki/המן_(פוסן)"
+   ],
+   "note": null,
+   "order": 32
+  },
+  {
+   "key": "poussin_solomon",
+   "name_he": "משפט שלמה",
+   "name_orig": "Le Jugement de Salomon",
+   "artist": "Nicolas Poussin",
+   "date": "1649",
+   "inv": "INV 7277",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 826,
+   "room_name": "Nicolas Poussin (1594-1665) : entre Rome et Paris",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 826 - Nicolas Poussin (1594-1665) : entre Rome et Paris",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062441",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Judgement_of_Solomon_(Poussin)",
+    "he": null
+   },
+   "bible": "מלכים א ג:16–28",
+   "testament": "OT",
+   "tier": 2,
+   "desc_he": "שתי האימהות לפני שלמה. מימין, זו שמחזיקה את התינוק המת מצביעה בזעם. משמאל, האם האמיתית מנסה לעצור את החייל שמניף חרב. שלמה יושב במרכז, בסימטריה מושלמת של צדק.",
+   "more_he": [
+    "החייל מחזיק את התינוק החי הפוך, ברגלו. המתח מגיע לשיא.",
+    "השוו את הפנים של שתי הנשים: חמלה מול קנאה.",
+    "לפי עדויות מהתקופה, פוסן ראה בציור הזה את הטוב ביותר שלו."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062441",
+    "https://en.wikipedia.org/wiki/The_Judgement_of_Solomon_(Poussin)"
+   ],
+   "note": null,
+   "order": 33
+  },
+  {
+   "key": "poussin_eliezer",
+   "name_he": "אליעזר ורבקה",
+   "name_orig": "Eliézer et Rébecca",
+   "artist": "Nicolas Poussin",
+   "date": "1648",
+   "inv": "INV 7270",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 826,
+   "room_name": "Nicolas Poussin (1594-1665) : entre Rome et Paris",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 826 - Nicolas Poussin (1594-1665) : entre Rome et Paris",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062436",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Eliezer_and_Rebecca_(Poussin,_Louvre)",
+    "he": null
+   },
+   "bible": "בראשית כד:15–22",
+   "testament": "OT",
+   "tier": 3,
+   "desc_he": "אליעזר, עבד אברהם, מגיע לבאר ומושיט לרבקה נזם וצמידים, כי השקתה אותו ואת גמליו. הוא הגיע לחפש כלה ליצחק.",
+   "more_he": [
+    "אין בציור גמלים. פוסן השמיט אותם כדי שלא יסיחו את הדעת, וזה עורר ויכוח באקדמיה ב-1668.",
+    "הנערות סביב הבאר מגיבות כל אחת אחרת: הפתעה, קנאה, סקרנות.",
+    "רבקה מניחה יד על החזה, מחווה של צניעות והסכמה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062436",
+    "https://en.wikipedia.org/wiki/Eliezer_and_Rebecca_(Poussin,_Louvre)"
+   ],
+   "note": null,
+   "order": 34
+  },
+  {
+   "key": "pieta_villeneuve",
+   "name_he": "הפייטה של וילנב-לז-אביניון",
+   "name_orig": "Pietà de Villeneuve-lès-Avignon",
+   "artist": "Enguerrand Quarton (attr.)",
+   "date": "1450–1475",
+   "inv": "RF 1569",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 833,
+   "room_name": "Le réveil artistique en Provence",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 833 - Le réveil artistique en Provence",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010063345",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Pietà_of_Villeneuve-lès-Avignon",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "מרים מחזיקה על ברכיה את גופת ישו, וסביבה יוחנן ומרים המגדלית, על רקע זהב. בקצה כורע התורם. זו יצירת מופת של הציור הצרפתי במאה ה-15.",
+   "more_he": [
+    "הגוף של ישו מתוח כקשת שבורה.",
+    "ברקע הזהב יש קו רקיע חיוור של עיר מזרחית עם כיפות, ירושלים כפי שדמיינו אותה.",
+    "מרים המגדלית מחזיקה את צנצנת הבשמים ומוחה דמעה.",
+    "התורם, בלבן, לא מסתכל על הסצנה. הוא נמצא בתפילה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010063345",
+    "https://en.wikipedia.org/wiki/Pietà_of_Villeneuve-lès-Avignon"
+   ],
+   "note": null,
+   "order": 35
+  },
+  {
+   "key": "vermeer_lacemaker",
+   "name_he": "עושת התחרה",
+   "name_orig": "La Dentellière",
+   "artist": "Johannes Vermeer",
+   "date": "c. 1669–1670",
+   "inv": "MI 1448",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 837,
+   "room_name": "Autour de Jacob van Ruisdael (vers 1628-1682)",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 837 - Autour de Jacob van Ruisdael (vers 1628-1682)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064918",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Lacemaker_(Vermeer)",
+    "he": "https://he.wikipedia.org/wiki/יוצרת_התחרה_(ורמיר)"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 1,
+   "desc_he": "אחד הציורים הקטנים בלובר, בערך 24 על 21 ס\"מ. צעירה רוכנת על עבודת תחרה, וכל הריכוז שלה, וגם שלנו, מתנקז לחוטים הדקים שבין אצבעותיה. היכונו לחפש אותו על הקיר.",
+   "more_he": [
+    "החוטים האדומים והלבנים שנשפכים מהכרית מטושטשים, כמו בעדשה לא ממוקדת. ייתכן שוורמיר השתמש בקמרה אובסקורה.",
+    "הספר הקטן בחזית הוא כנראה ספר תפילה: מוסר של חריצות ואמונה.",
+    "דאלי היה אובססיבי לציור הזה והעתיק אותו.",
+    "באותו חדר תלוי גם האסטרונום של ורמיר."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064918",
+    "https://en.wikipedia.org/wiki/The_Lacemaker_(Vermeer)",
+    "https://he.wikipedia.org/wiki/יוצרת_התחרה_(ורמיר)"
+   ],
+   "note": null,
+   "order": 36
+  },
+  {
+   "key": "vermeer_astronomer",
+   "name_he": "האסטרונום",
+   "name_orig": "L'Astronome",
+   "artist": "Johannes Vermeer",
+   "date": "1668 / 1673",
+   "inv": "RF 1983 28",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 837,
+   "room_name": "Autour de Jacob van Ruisdael (vers 1628-1682)",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 837 - Autour de Jacob van Ruisdael (vers 1628-1682)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010064324",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Astronomer",
+    "he": "https://he.wikipedia.org/wiki/האסטרונום"
+   },
+   "bible": "שמות ב:5–10",
+   "testament": "OT",
+   "tier": 2,
+   "desc_he": "מלומד מסובב גלובוס של השמיים ליד חלון. זה אחד הציורים הבודדים של ורמיר שנושאים תאריך. במלחמת העולם השנייה הנאצים בזזו אותו.",
+   "more_he": [
+    "על הקיר מאחוריו תלוי ציור של משיית משה מן היאור (שמות ב). זה רמז למשה, שלפי המסורת למד את כל חכמת מצרים.",
+    "הגלובוס השמימי מצויר בדיוק, עם קבוצות כוכבים.",
+    "הציור היה באוסף רוטשילד, נבזז בידי הנאצים לאוסף שתכנן היטלר, הוחזר אחרי המלחמה ונכנס ללובר ב-1983.",
+    "בן הזוג שלו, \"הגאוגרף\", נמצא בפרנקפורט."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010064324",
+    "https://en.wikipedia.org/wiki/The_Astronomer",
+    "https://he.wikipedia.org/wiki/האסטרונום"
+   ],
+   "note": null,
+   "order": 37
+  },
+  {
+   "key": "rembrandt_bathsheba",
+   "name_he": "בת שבע ברחצה",
+   "name_orig": "Bethsabée au bain tenant la lettre du roi David",
+   "artist": "Rembrandt",
+   "date": "1654",
+   "inv": "MI 957",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 844,
+   "room_name": "Autour de Rembrandt Harmensz van Rijn",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 844 - Autour de Rembrandt Harmensz van Rijn, dit Rembrandt (1606-1669)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010060453",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Bathsheba_at_Her_Bath_(Rembrandt)",
+    "he": "https://he.wikipedia.org/wiki/בת_שבע_עם_המכתב_מהמלך_דוד"
+   },
+   "bible": "שמואל ב יא:2–4",
+   "testament": "OT",
+   "tier": 1,
+   "desc_he": "בת שבע אחרי הרחצה, ובידה המכתב של דוד שמזמין אותה אליו. רמברנדט לא מצייר רגע של פיתוי אלא רגע של התלבטות: היא כבר יודעת מה יקרה.",
+   "more_he": [
+    "בתנ\"ך דוד שולח שליחים, ואין שם מכתב. רמברנדט המציא את המכתב כדי להראות את הדילמה שלה.",
+    "המשרתת הזקנה מנגבת את רגליה, מחווה של הכנה וכניעה.",
+    "המודל היא כנראה הנדריקיה סטופלס, בת הזוג של רמברנדט. באותה שנה, 1654, זימנה אותה הכנסייה ונזפה בה על \"חיים בחטא\", כשהייתה בהריון.",
+    "הגוף אמיתי ולא אידיאלי, וזה הדבר שהפתיע את בני התקופה.",
+    "התכשיטים ובד הזהב מאחוריה מרמזים לארמון שמחכה לה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010060453",
+    "https://en.wikipedia.org/wiki/Bathsheba_at_Her_Bath_(Rembrandt)",
+    "https://he.wikipedia.org/wiki/בת_שבע_עם_המכתב_מהמלך_דוד"
+   ],
+   "note": null,
+   "order": 38
+  },
+  {
+   "key": "rembrandt_emmaus",
+   "name_he": "הסעודה באמאוס (רמברנדט)",
+   "name_orig": "Les Pèlerins d'Emmaüs",
+   "artist": "Rembrandt",
+   "date": "1648",
+   "inv": "INV 1739",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 844,
+   "room_name": "Autour de Rembrandt Harmensz van Rijn",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 844 - Autour de Rembrandt Harmensz van Rijn, dit Rembrandt (1606-1669)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062023",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Rembrandt,_Louvre)",
+    "he": null
+   },
+   "bible": "לוקס כד:30–31",
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "שני תלמידים יושבים לסעוד עם זר בפונדק באמאוס, ורק כשהוא בוצע את הלחם הם מזהים בו את ישו הקם לתחייה. רמברנדט מצייר את רגע ההכרה בשקט, בלי דרמה.",
+   "more_he": [
+    "ישו חיוור ושקוף כמעט, עם הילה רכה שבוקעת מהקיר מאחוריו.",
+    "התלמיד משמאל משלב ידיים בתפילה, והשני נרתע לאחור.",
+    "המשרת שמגיש אוכל עדיין לא הבין דבר.",
+    "השוו לגרסאות של טיציאן ושל ורונזה לאותו סיפור, שתיהן בחדר 711 באגף דנון."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062023",
+    "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Rembrandt,_Louvre)"
+   ],
+   "note": null,
+   "order": 39
+  },
+  {
+   "key": "rembrandt_self_easel",
+   "name_he": "דיוקן עצמי ליד כן הציור",
+   "name_orig": "Autoportrait au chevalet et à l'appuie-main de peintre",
+   "artist": "Rembrandt",
+   "date": "1660",
+   "inv": "INV 1747",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 844,
+   "room_name": "Autour de Rembrandt Harmensz van Rijn",
+   "on_display": true,
+   "location_fr": "Richelieu, [Peint] Salle 844 - Autour de Rembrandt Harmensz van Rijn, dit Rembrandt (1606-1669)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062020",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Self-portraits_by_Rembrandt",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "רמברנדט בן 54, אחרי פשיטת רגל, בבגדי עבודה עם מכחולים ופלטה. אין כאן תכשיטים או תחפושות, רק צייר מול עצמו.",
+   "more_he": [
+    "האור מתרכז בפנים, וכל השאר נבלע בחום כהה.",
+    "הכובע הלבן הפשוט הוא כובע עבודה, לא בגד של אדם עשיר.",
+    "באותו חדר יש שני דיוקנים עצמיים שלו בגיל 27 (1633). השוו את הפנים הצעירים והבטוחים לפנים העייפים כאן.",
+    "רמברנדט צייר ותחרט עשרות דיוקנים עצמיים לאורך חייו."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062020",
+    "https://en.wikipedia.org/wiki/Self-portraits_by_Rembrandt"
+   ],
+   "note": null,
+   "order": 40
+  },
+  {
+   "key": "la_tour_cheat",
+   "name_he": "הרמאי עם אס היהלום",
+   "name_orig": "Le Tricheur à l’as de carreau",
+   "artist": "Georges de La Tour",
+   "date": "c. 1636–1640",
+   "inv": "RF 1972 8",
+   "wing": "Sully",
+   "level": 2,
+   "room": 912,
+   "room_name": "Georges de La Tour et Les frères Le Nain",
+   "on_display": true,
+   "location_fr": "Sully, [Peint] Salle 912 - Georges de La Tour et Les frères Le Nain, Salle 912 - Georges de La Tour (1593-1652)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010066276",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Card_Sharp_with_the_Ace_of_Diamonds",
+    "he": "https://he.wikipedia.org/wiki/הרמאי_עם_אס_יהלום"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "צעיר עשיר ותמים משחק קלפים מול שלושה שמרמים אותו. הרמאי משמאל שולף אס יהלום מאחורי הגב. הכול שקט, וכל הסיפור מתרחש במבטים.",
+   "more_he": [
+    "עקבו אחרי העיניים: המשרתת מביטה הצידה, הגבירה מציצה ברמאי, והרמאי מביט אלינו כאילו אנחנו שותפים לסוד.",
+    "האסים תחובים בחגורה מאחורי הגב שלו.",
+    "שלושת הפיתויים של התקופה בציור אחד: הימורים, יין ותשוקה.",
+    "גרסה אחרת, עם אס תלתן, נמצאת במוזיאון קימבל בטקסס."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010066276",
+    "https://en.wikipedia.org/wiki/The_Card_Sharp_with_the_Ace_of_Diamonds",
+    "https://he.wikipedia.org/wiki/הרמאי_עם_אס_יהלום"
+   ],
+   "note": null,
+   "order": 41
+  },
+  {
+   "key": "la_tour_magdalen",
+   "name_he": "מרים המגדלית ליד המנורה (מגדלנה טרף)",
+   "name_orig": "La Madeleine à la veilleuse dite La Madeleine Terff",
+   "artist": "Georges de La Tour",
+   "date": "c. 1642–1644",
+   "inv": "RF 1949 11",
+   "wing": "Sully",
+   "level": 2,
+   "room": 912,
+   "room_name": "Georges de La Tour et Les frères Le Nain",
+   "on_display": true,
+   "location_fr": "Sully, [Peint] Salle 912 - Georges de La Tour et Les frères Le Nain",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010066780",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Georges_de_La_Tour",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 2,
+   "desc_he": "מרים המגדלית יושבת בחושך מול להבה אחת, עם גולגולת בחיקה. זו תמונה של חרטה ושל הרהור על המוות, ומקור האור היחיד הוא הלהבה.",
+   "more_he": [
+    "היד שמונחת על הגולגולת היא תזכורת למוות (memento mori).",
+    "הלהבה והעשן שעולה ממנה מסמלים את הזמן ואת החיים שחולפים.",
+    "דה לה טור נשכח כמעט לגמרי במשך מאות שנים, ו\"התגלה\" מחדש רק ב-1915.",
+    "הוא צייר כמה גרסאות לנושא, והן פזורות היום בין לוס אנג'לס, וושינגטון וניו יורק."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010066780",
+    "https://en.wikipedia.org/wiki/Georges_de_La_Tour"
+   ],
+   "note": null,
+   "order": 42
+  },
+  {
+   "key": "watteau_cythera",
+   "name_he": "עלייה לרגל לאי קיתרה",
+   "name_orig": "Pèlerinage à l'île de Cythère",
+   "artist": "Jean-Antoine Watteau",
+   "date": "1717",
+   "inv": "INV 8525",
+   "wing": "Sully",
+   "level": 2,
+   "room": 917,
+   "room_name": "Jean-Antoine Watteau (1684-1721)",
+   "on_display": true,
+   "location_fr": "Sully, [Peint] Salle 917 - Jean-Antoine Watteau (1684-1721)",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010061995",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Embarkation_for_Cythera",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "זוגות מאוהבים בבגדי משי על אי האהבה של ונוס, רגע לפני שהם עולים לסירה. בזכות הציור הזה התקבל ואטו לאקדמיה, והוא המציא סוגה חדשה: \"פט גלאנט\".",
+   "more_he": [
+    "קראו את הציור מימין לשמאל: ליד פסל ונוס עטור הפרחים מתחיל החיזור, והוא נגמר בירידה לסירה.",
+    "קופידונים מרחפים מעל הסירה.",
+    "חוקרים עדיין מתווכחים אם הזוגות מגיעים לאי או עוזבים אותו. האווירה המלנכולית רומזת לפרידה.",
+    "גרסה שנייה, שצויירה אחר כך, נמצאת בארמון שרלוטנבורג בברלין."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010061995",
+    "https://en.wikipedia.org/wiki/The_Embarkation_for_Cythera"
+   ],
+   "note": null,
+   "order": 43
+  },
+  {
+   "key": "chardin_ray",
+   "name_he": "הדג רָאי (התריסנית)",
+   "name_orig": "La Raie",
+   "artist": "Jean Siméon Chardin",
+   "date": "1728",
+   "inv": "INV 3197",
+   "wing": "Sully",
+   "level": 2,
+   "room": 919,
+   "room_name": "Les peintres de Louis XV",
+   "on_display": true,
+   "location_fr": "Sully, [Peint] Salle 919 - Les peintres de Louis XV",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010065938",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 3,
+   "desc_he": "טבע דומם מזעזע ומשעשע: דג ראי קרוע ותלוי עם \"פרצוף\" משונה, וחתול שמטפס על צדפות. בזכות הציור הזה התקבל שרדן לאקדמיה.",
+   "more_he": [
+    "החורים של הדג נראים כמו פנים מחייכות.",
+    "החתול, עם פרווה סמורה, מכניס תנועה לטבע הדומם.",
+    "ידית הסכין בולטת מקצה השולחן: אשליה של עומק.",
+    "מאטיס העתיק את הציור כשהיה סטודנט."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010065938",
+    "https://en.wikipedia.org/wiki/The_Ray_(Chardin)"
+   ],
+   "note": null,
+   "order": 44
+  },
+  {
+   "key": "belle_ferronniere",
+   "name_he": "לה בל פרונייר",
+   "name_orig": "Portrait de femme, dit à tort La Belle Ferronnière",
+   "artist": "Leonardo da Vinci",
+   "date": "c. 1490–1497",
+   "inv": "INV 778",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": false,
+   "location_fr": "non exposé",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062372",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/La_Belle_Ferronnière",
+    "he": "https://he.wikipedia.org/wiki/לה_בל_פרונייר"
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 3,
+   "desc_he": "דיוקן אישה מחצר מילאנו, אולי לוקרציה קריוולי, אהובתו של לודוביקו ספורצה. השם \"הנפחית היפה\" נובע מבלבול עם פילגש של מלך צרפת. לפי רשומת האוסף הציור אינו מוצג כרגע.",
+   "more_he": [
+    "הסרט הדק על המצח עם תכשיט קטן נקרא \"פרונייר\", ומכאן השם.",
+    "שימו לב להשתקפות האדמדמה של השמלה על הלחי.",
+    "המבט מוסט מאיתנו, כאילו מישהו קרא לה מהצד.",
+    "הציור הוצג בלובר אבו דאבי ב-2017–2018."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062372",
+    "https://en.wikipedia.org/wiki/La_Belle_Ferronnière",
+    "https://he.wikipedia.org/wiki/לה_בל_פרונייר"
+   ],
+   "note": "Collection record: 'non exposé' (not on display). Reason not stated.",
+   "order": 45
+  },
+  {
+   "key": "pastoral_concert",
+   "name_he": "הקונצרט הכפרי",
+   "name_orig": "Le Concert champêtre",
+   "artist": "Titian (formerly attributed to Giorgione)",
+   "date": "1500–1525",
+   "inv": "INV 71",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": false,
+   "location_fr": "non exposé",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010062281",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Pastoral_Concert",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 3,
+   "desc_he": "שני צעירים לבושים מנגנים בנוף כפרי, ולצדם שתי נשים עירומות. ייתכן שהן מוזות שהגברים אינם רואים. הייחוס נתון במחלוקת בין טיציאן לג'ורג'וני. לפי רשומת האוסף הציור אינו מוצג כרגע.",
+   "more_he": [
+    "מאנה שאב מהציור את \"ארוחת בוקר על הדשא\" (1863).",
+    "האישה משמאל שופכת מים לבאר, אלגוריה לשירה.",
+    "הגברים לא מגיבים לנשים. זה רמז לכך שהן דמיוניות."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010062281",
+    "https://en.wikipedia.org/wiki/Pastoral_Concert"
+   ],
+   "note": "Collection record: 'non exposé' (not on display).",
+   "order": 46
+  },
+  {
+   "key": "rubens_medici",
+   "name_he": "מחזור מארי דה מדיצ'י – הנחיתה במרסיי",
+   "name_orig": "Le Débarquement de la reine à Marseille, le 3 novembre 1600",
+   "artist": "Peter Paul Rubens",
+   "date": "1622–1625",
+   "inv": "INV 1774",
+   "wing": "Richelieu",
+   "level": 2,
+   "room": 801,
+   "room_name": "Galerie Médicis",
+   "on_display": false,
+   "location_fr": "Richelieu, [Peint] Salle 801 - Galerie Médicis",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010060820",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Arrival_of_Marie_de_Medici_at_Marseille",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 2,
+   "desc_he": "24 ציורי ענק שהזמינה מלכת צרפת מארי דה מדיצ'י מרובנס, כדי לספר את חייה כאפוס מיתולוגי. בנחיתה במרסיי, נימפות ים ונפטון מלווים את הכלה בבואה לצרפת. הגלריה סגורה כרגע.",
+   "more_he": [
+    "שלוש נימפות ים בשרניות בחזית הן הדוגמה המובהקת ל\"רובנסי\".",
+    "מעל המלכה מרחפת התהילה ותוקעת בשתי חצוצרות.",
+    "זה מחזור תעמולה למלכה שבנה, לואי ה-13, הגלה אותה זמן קצר אחר כך.",
+    "שימו לב: לפי לוח החדרים של הלובר לנובמבר 2026, גלריה מדיצ'י (Richelieu, קומה 2) סגורה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010060820",
+    "https://www.louvre.fr/en/visit/list-of-available-galleries?day=saturday",
+    "https://en.wikipedia.org/wiki/The_Arrival_of_Marie_de_Medici_at_Marseille"
+   ],
+   "note": "Record: Salle 801 Galerie Médicis, but Louvre 'list of available galleries' (2 Nov–1 Dec 2026) marks Galerie Médicis 'Currently closed'.",
+   "order": 47
+  },
+  {
+   "key": "braque_triptych",
+   "name_he": "טריפטיך משפחת בראק",
+   "name_orig": "Triptyque de la famille Braque",
+   "artist": "Rogier van der Weyden",
+   "date": "c. 1452",
+   "inv": "RF 2063",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": false,
+   "location_fr": "non exposé",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010061888",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Braque_Triptych",
+    "he": null
+   },
+   "bible": null,
+   "testament": "NT",
+   "tier": 3,
+   "desc_he": "טריפטיך קטן לזכר ז'אן בראק. במרכז ישו, מושיע העולם, בין מרים ליוחנן, ובכנפיים יוחנן המטביל ומרים המגדלית. לפי רשומת האוסף הוא אינו מוצג כרגע.",
+   "more_he": [
+    "שורות טקסט יוצאות מפי הדמויות, ציטוטים מהבשורות.",
+    "מרים המגדלית מחזיקה את צנצנת הבשמים, ומאחוריה נוף מפורט.",
+    "על גב הכנפיים, כשהטריפטיך סגור, מצוירים גולגולת וצלב: תזכורת למוות."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010061888",
+    "https://en.wikipedia.org/wiki/Braque_Triptych"
+   ],
+   "note": "Collection record: 'non exposé'. Was in the Schongauer exhibition (Sully room 130) until 20 Jul 2026.",
+   "order": 48
+  },
+  {
+   "key": "durer_self_portrait",
+   "name_he": "דיוקן עצמי עם קוץ (דירר)",
+   "name_orig": "Portrait de l'artiste tenant un chardon",
+   "artist": "Albrecht Dürer",
+   "date": "1493",
+   "inv": "RF 2382",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": false,
+   "location_fr": "non exposé",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010065609",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle",
+    "he": null
+   },
+   "bible": null,
+   "testament": null,
+   "tier": 3,
+   "desc_he": "דירר בן 22 מחזיק גבעול קוצני. זה אחד הדיוקנים העצמיים העצמאיים הראשונים בציור האירופי, וכנראה צויר בזמן האירוסין שלו. לפי רשומת האוסף הציור אינו מוצג כרגע.",
+   "more_he": [
+    "הכתובת למעלה, בגרמנית, אומרת בערך: \"ענייני מתנהלים כפי שנקבע מלמעלה\".",
+    "בגרמנית קוראים לצמח \"נאמנות הגבר\". אפשר לקרוא אותו גם כרמז לכתר הקוצים.",
+    "הציור צויר במקור על קלף ורק מאוחר יותר הועבר לבד."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010065609",
+    "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle"
+   ],
+   "note": "Collection record: 'non exposé'.",
+   "order": 49
+  }
+ ]
+}

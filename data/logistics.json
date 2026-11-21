@@ -1,0 +1,131 @@
+{
+  "researched_on": "2026-11-21",
+  "map": {
+    "pdf_url": "https://api-www.louvre.fr/sites/default/files/2026-05/2026-05_Plan_Louvre_FR.pdf",
+    "pdf_url_en": "https://api-www.louvre.fr/sites/default/files/2026-05/2026-05_Plan_Louvre_EN.pdf",
+    "landing_page": "https://www.louvre.fr/plan",
+    "interactive_map": "https://collections.louvre.fr/plan",
+    "local_files": ["map/plan-fr-2026-05.pdf", "map/plan-en-2026-05.pdf"],
+    "version": "May 2026 edition. Printed line: \"Conception graphique : Dream On / Sous-direction de la médiation dans les salles / Service de la médiation graphique et numérique / Impression : Imprimerie Technigraphic, mai 2026.\" Latest on louvre.fr/plan as of 2026-11-21 (only the FR PDF is linked there; EN version exists at the same path). Probes for 2026-06/09/10 filenames returned 404.",
+    "credit": "Plan page: \"© Aristéas 2016\" (aerial view illustration); photo credits \"© Musée du Louvre / Olivier Ouadah\", \"© 2015 Musée du Louvre / Michel Denancé\", \"© RMN - Grand Palais (Musée du Louvre) / …\" etc. Suggested attribution: \"Plan: musée du Louvre, édition mai 2026 (Dream On / Service de la médiation graphique et numérique)\".",
+    "pdf_structure": "2 pages, each 864.6 x 2126 pt. Page 1 = aerial view, intro, practical info, wing/level collection list. Page 2 = five stacked level plans (2, 1, 0, -1, -2) with room numbers, lifts/stairs letters, toilets, cafés, cloakroom; legend of museum rules at the bottom (cropped away).",
+    "has_room_numbers": true,
+    "room_numbers_note": "Yes. The official plan prints room numbers for every room plus highlight works with their room: La Joconde 711, Victoire de Samothrace 703, Galerie d'Apollon 705, Vénus de Milo 345, Scribe accroupi 635, Esclave mourant 403, Palais de Darius 308, Ebih-Il 234, Appartements Napoléon III 544, La Liberté guidant le peuple 700, La Dentellière 837, Le Tricheur 912, etc. Hatched yellow = rooms closed for renovation (as of May 2026 print). For per-object location use collections.louvre.fr, field 'Localisation', e.g. Mona Lisa: \"Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)\" + \"Aile Denon, Niveau 1\" (https://collections.louvre.fr/ark:/53355/cl010062370, fetched 2026-11-21; page warns locations may be out of date during a system overhaul).",
+    "levels": [
+      {"file": "map/level2.png", "level": 2, "notes": "1500x726. Richelieu rooms 800-864 (Northern Europe & French painting 1350-1650), Sully 900-952 (French painting 1650-1850). No Denon rooms on level 2."},
+      {"file": "map/level1.png", "level": 1, "notes": "1500x735. Richelieu 500-564 (decorative arts, Napoleon III apts 544), Sully 600-663 (decorative arts, Egypt 633-640, Greek/Italic antiquities 650-663), Denon 700-734 (Italian, French large formats, GB/US, Spanish painting; Galerie d'Apollon 705; Daru landing 703)."},
+      {"file": "map/level0.png", "level": 0, "notes": "1500x726. Richelieu 200-236 (French sculpture, Mesopotamia), Sully 300-348 (Near East, Egypt thematic, Greek incl. Vénus de Milo 345), Denon 400-433 (Italian/European sculpture 403-406, Galerie des cinq continents 424-433, Roman antiquities closed)."},
+      {"file": "map/level-1.png", "level": -1, "notes": "1500x740. Richelieu 100-106 (French sculpture, Galerie Richelieu), Sully 130-137 (Louvre médiéval / Histoire du Louvre), Denon 160-187 (pre-classical Greece 170, European sculpture 1200-1600 169, Arts de l'Islam closed). Audioguide counters Sully & Denon. Studio (Richelieu)."},
+      {"file": "map/level-2.png", "level": -2, "notes": "1500x629. Bonus: Hall Napoléon under the Pyramid: ticket office, information desk, cloakroom (Vestiaire), Espace Assistance, wing entrances Sully/Denon/Richelieu (escalators), shop, metro/Carrousel exit, temporary exhibitions."}
+    ],
+    "extra_files": ["map/overview-page1.png (page 1 of the PDF at 1200px: aerial view + practical info, French)"]
+  },
+  "hours": {
+    "regular": "Mon, Thu, Sat, Sun 09:00-18:00; Wed & Fri 09:00-21:00 (late opening).",
+    "closed": "Every Tuesday; 1 Jan, 1 May, 25 Dec.",
+    "last_entry": "1 hour before closing.",
+    "room_clearing": "Rooms start clearing 30 min before closing (17:30; 20:30 Wed/Fri).",
+    "level2_late_open": "Wed & Fri: level-2 rooms (Richelieu 800s, Sully 900s) open only at 10:30.",
+    "timed_entry": "Time-slot booking RECOMMENDED for everyone (incl. free-entry visitors); on-site sales only when attendance is low. MANDATORY reservation for all visitors 19 Dec 2026 - 4 Jan 2027 (exemptions: Amis du Louvre, CLEF+, patrons, disabled visitors + companion, etc.).",
+    "official_ticketing": "https://ticket.louvre.fr/en (beware mirror/resale sites; museum may refuse entry)",
+    "date_specific_notices": [
+      "Sun 22 Nov 2026: \"The museum may open later and some exhibition rooms may remain closed.\" (no reason given)",
+      "Cour Carrée is currently closed; Cour Napoléon open 07:30-21:00."
+    ],
+    "entrances": [
+      {"name": "Pyramide", "status": "open (main entrance for individuals)", "notes": "3 queues: green = ticket/Paris Museum Pass holders, orange = no ticket, blue = priority (disabled visitors). Tube lift for wheelchairs/prams."},
+      {"name": "Carrousel (99 rue de Rivoli, via Galerie du Carrousel)", "status": "listed for all visitors (groups, members, ticket holders); current live status not stated in text", "notes": "Connects to the underground car park, 1 av. du Général Lemonnier. Confirm on day."},
+      {"name": "Porte des Lions (Quai François-Mitterrand)", "status": "open except Tuesdays, ticket holders only", "notes": "Closes 18:00, last entry 17:00; its lockers close 15:00; no equipment loans. Usually the shortest queue. Opens directly into Denon (Spanish painting / Arts de l'Islam end)."},
+      {"name": "Passage Richelieu (rue de Rivoli)", "status": "restricted", "notes": "Groups, members, auditorium/activity attendees, institutional cards only. Closes after 17:30 (19:30 Wed/Fri). Not for regular individual ticket holders."}
+    ],
+    "transport": "Metro Palais-Royal / Musée du Louvre (lines 1, 7) - direct underground access via Carrousel; Pyramides (line 14). Buses 21, 27, 39, 67, 68, 69, 72, 74, 85, 95. Batobus stop Louvre.",
+    "security": "Vigipirate 'Vigilance renforcée'; bags opened at security.",
+    "phone": "+33 (0)1 40 20 53 17 (same-day room info)",
+    "sources": [
+      {"url": "https://www.louvre.fr/en/visit/hours-admission", "fetched": "2026-11-21"},
+      {"url": "https://www.louvre.fr/en/visit/map-entrances-directions", "fetched": "2026-11-21"},
+      {"url": "https://api-www.louvre.fr/sites/default/files/2026-05/2026-05_Plan_Louvre_FR.pdf", "printed": "2026-05"},
+      {"url": "https://www.louvre.fr/visiter/jours-d-acces-aux-collections", "fetched": "2026-11-21", "covers": "2026-11-02 to 2026-12-01"}
+    ]
+  },
+  "room_schedule_by_day": {
+    "period": "2026-11-02 to 2026-12-01 (official 'Plan d'ouverture des salles'; no December schedule published yet)",
+    "source": "https://www.louvre.fr/en/visit/list-of-available-galleries",
+    "note": "The current official schedule shows NO weekday-based rotating closures; the only weekday difference is level 2 opening at 10:30 on Wed/Fri. Same list applies Mon/Wed/Thu/Fri/Sat/Sun.",
+    "table": [
+      {"day": "Monday", "differences": "none"},
+      {"day": "Tuesday", "differences": "museum closed"},
+      {"day": "Wednesday", "differences": "level 2 rooms closed before 10:30; open until 21:00"},
+      {"day": "Thursday", "differences": "none"},
+      {"day": "Friday", "differences": "level 2 rooms closed before 10:30; open until 21:00"},
+      {"day": "Saturday", "differences": "none"},
+      {"day": "Sunday", "differences": "none (but see 22 Nov notice)"}
+    ]
+  },
+  "closures": [
+    {"what": "Galerie d'Apollon (Denon 1, room 705)", "status": "REOPENED - but crown jewels not displayed (cases empty, focus on painted/gilded décor)", "since": "2026-07-22 (closed since theft of 2025-10-19)", "source": "https://presse.louvre.fr/reouverture-de-la-galerie-dapollon-1063000238305/?lang=en", "confirmed": true},
+    {"what": "La Joconde / Mona Lisa", "status": "Still in Salle des États, Denon level 1, room 711. Planned move to a new dedicated space under the Cour Carrée (Louvre Nouvelle Renaissance) - target ~2031, no date set.", "since": "1966 (room renovated 2019)", "source": "https://api-www.louvre.fr/sites/default/files/2026-05/2026-05_Plan_Louvre_FR.pdf ; https://collections.louvre.fr/ark:/53355/cl010062370", "confirmed": true},
+    {"what": "Louvre Nouvelle Renaissance works", "status": "Design stage only: STUDIOS Architecture Paris + Selldorf Architects won the competition (announced 18-26 May 2026). No construction affecting galleries found. New president said plan was 'put in parentheses' after the theft; cost >= EUR 1bn.", "since": "competition launched 2025-06-28", "source": "https://www.louvre.fr/en/explore/life-at-the-museum/louvre-nouvelle-renaissance-international-architecture-competition ; https://www.batiweb.com/actualites/architecture/reamenagement-du-louvre-studios-et-selldorf-remportent-le-concours-48782", "confirmed": true},
+    {"what": "Cour Carrée (courtyard)", "status": "closed (reason not stated)", "since": "unknown", "source": "https://www.louvre.fr/en/visit/hours-admission (fetched 2026-11-21)", "confirmed": true},
+    {"what": "Arts de l'Islam (Denon -1 / -2)", "status": "closed for renovation", "since": "before May 2026", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries ; plan PDF May 2026", "confirmed": true},
+    {"what": "Roman antiquities (Denon 0)", "status": "closed for renovation", "since": "before May 2026", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries ; plan PDF May 2026", "confirmed": true},
+    {"what": "Greek antiquities - Galerie Campana (Sully 1, ~rooms 650-656)", "status": "closed", "since": "unknown", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "Galerie Médicis (Richelieu 2, Rubens cycle; room 801 believed)", "status": "closed for restoration of the works", "since": "unknown", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "Spanish painting (Denon 1) rooms 720-734", "status": "closed (718-719 incl. Le Pied-bot open)", "since": "unknown", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "European sculpture 1500-1800 (Denon 0) rooms 400-402", "status": "closed (403 Michelangelo slaves open)", "since": "unknown", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "Decorative arts 18th c. (Sully 1) rooms 600/601-604 (Conseil d'État rooms)", "status": "closed; 601-604 can be walked through without works; lift G accessible", "since": "2026-11-02 until 2026-12-06", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "Italian painting (Denon 1) room 709 Salle des Sept Mètres", "status": "closed", "since": "until end of November 2026", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "French large-format painting (Denon 1) room 700 Salle Mollien (La Liberté guidant le peuple, Radeau de la Méduse)", "status": "closed 1-15 Dec 2026", "since": "2026-12-01 to 2026-12-15", "source": "https://www.louvre.fr/en/visit/list-of-available-galleries", "confirmed": true},
+    {"what": "Napoleon III apartments (Richelieu 1, room 544)", "status": "OPEN", "since": "-", "source": "https://www.louvre.fr/visiter/jours-d-acces-aux-collections", "confirmed": true},
+    {"what": "Egyptian antiquities (Sully 0 thematic, Sully 1 chronological)", "status": "OPEN", "since": "-", "source": "https://www.louvre.fr/visiter/jours-d-acces-aux-collections", "confirmed": true},
+    {"what": "Near Eastern antiquities (Richelieu 0 Mesopotamia; Sully 0 Iran/Levant/Arabia)", "status": "OPEN", "since": "-", "source": "https://www.louvre.fr/visiter/jours-d-acces-aux-collections", "confirmed": true},
+    {"what": "Staff strike / social conflict", "status": "Reported settled by agreement signed 2026-10-29 (Dec 2025 - Oct 2026 conflict caused several full/partial closure days). 5 Nov 2026 national strike: conflicting reports (open as usual vs reduced access). Possible lower daily cap on busy days - figure unpublished.", "since": "2026-10-29", "source": "https://www.amalgallery.com/2026/11/11/louvre-accord-greve-jauge-recrutements-2026/ (secondary, citing AFP) ; https://www.sortiraparis.com/en/news/in-paris/articles/357450-november-5-strike-eiffel-tower-closed-louvre-and-versailles-disrupted", "confirmed": false}
+  ],
+  "wings": [
+    {"wing": "Richelieu", "level": 2, "rooms": "800-864", "collections": "Northern European painting 1350-1850 (Vermeer La Dentellière 837, Metsys Le Prêteur et sa femme 814); French painting 1350-1650 (Jean Clouet François Ier 822); Galerie Médicis (closed)", "connectors": "Escalator/stair hub at room 800; lifts P, R"},
+    {"wing": "Sully", "level": 2, "rooms": "900-952", "collections": "French painting 1650-1850 (La Tour Le Tricheur 912, Ingres La Baigneuse 940)", "connectors": "Lifts G, C, V/U; links to Richelieu 2 at 900/800"},
+    {"wing": "Richelieu", "level": 1, "rooms": "500-564", "collections": "Decorative arts / objets d'art 500-1850 (Vierge de Jeanne d'Évreux 503; Napoleon III apartments 544)", "connectors": "Hub room 500; lifts P, R; Café Richelieu (Angelina) nearby with terrace over the Pyramid"},
+    {"wing": "Sully", "level": 1, "rooms": "600-663", "collections": "Decorative arts 17th-18th c. (600-604 closed to 6 Dec); Egyptian antiquities chronological (~633-640, Scribe accroupi 635); Greek & Italic/Etruscan antiquities (650-663, Sarcophage des époux 663; Campana gallery closed); Salle de la Chapelle", "connectors": "Lift G (600), C, T, V/U; links to Denon 1 at 661/703"},
+    {"wing": "Denon", "level": 1, "rooms": "700-734", "collections": "Victoire de Samothrace 703 (top of Daru staircase); Galerie d'Apollon 705; Italian painting 706-716 (Mona Lisa 711 Salle des États; Grande Galerie 710/712/716); French large formats 700-702 (Liberté guidant le peuple 700); GB/US painting 713-715; Spanish painting 718-734 (720-734 closed)", "connectors": "Daru staircase (Denon 0 -> 703); Mollien staircase near 700 with Café Mollien; lifts K, L, S, W; access to Galerie des cinq continents via stairs at 719"},
+    {"wing": "Richelieu", "level": 0, "rooms": "200-236", "collections": "French sculpture (Cour Marly/Puget, Christ décloué 201); Near Eastern antiquities - Mesopotamia (Ebih-Il 234; Code of Hammurabi, Khorsabad court nearby)", "connectors": "Lifts P, R, T"},
+    {"wing": "Sully", "level": 0, "rooms": "300-348", "collections": "Near East: Iran/Levant/Arabia (Palais de Darius 308); Egyptian antiquities thematic (~317-328, coffin of Tamoutnefret 321); Greek antiquities 338-348 (Vénus de Milo 345)", "connectors": "Lifts B, F, G, I/J, M/N, V/U"},
+    {"wing": "Denon", "level": 0, "rooms": "400-433", "collections": "Italian/European sculpture 403-406 (Michelangelo Esclave mourant 403; 400-402 closed); Roman antiquities (closed); Galerie des cinq continents 424-433 (Africa/Asia/Oceania/Americas)", "connectors": "Daru staircase starts here; lifts K/L, S, W"},
+    {"wing": "Richelieu", "level": -1, "rooms": "100-106", "collections": "French sculpture (Chevaux de Marly 102 area), Galerie Richelieu", "connectors": "Escalator from Hall Napoléon (Richelieu entrance); Studio (family space)"},
+    {"wing": "Sully", "level": -1, "rooms": "130-137", "collections": "Histoire du Louvre / Louvre médiéval (medieval moat & keep foundations, 133)", "connectors": "Escalator from Hall Napoléon (Sully entrance); audioguide counter; lifts D/E, H"},
+    {"wing": "Denon", "level": -1, "rooms": "160-187", "collections": "Pre-classical Greece (Cycladic idol 170); European sculpture 1200-1600 (Sainte Marie-Madeleine 169); Arts de l'Islam (closed)", "connectors": "Escalator from Hall Napoléon (Denon entrance); audioguide counter; lifts K/L, S, I/J"},
+    {"wing": "Hall Napoléon (under Pyramid)", "level": -2, "rooms": "-", "collections": "Reception: ticket office, info desk, cloakroom/lockers, Espace Assistance (wheelchairs, strollers, stools), shop, Hall Napoléon temporary exhibitions, Auditorium Michel Laclotte, group desk", "connectors": "Escalators up to the three wing entrances (Sully, Denon, Richelieu); exit/metro via Carrousel; Pyramid spiral stair & tube lift"}
+  ],
+  "practical": {
+    "tickets": {
+      "non_eea": "EUR 32 (applies to Israeli visitors) - non-EEA rate since 14 Jan 2026",
+      "eea": "EUR 22 (EU + Iceland, Liechtenstein, Norway citizens/residents)",
+      "groups_non_eea": "EUR 28 per person (guided groups, max 20) - press reports",
+      "free": "Under 18 (ID); EEA citizens/residents under 26; everyone on first Friday of the month after 18:00 (not Jul/Aug) - i.e. Fri 4 Dec 2026 evening; 14 July; disabled visitor + companion; some professional categories. Free visitors still advised to book a slot.",
+      "audioguide": "EUR 6",
+      "guided_tours": "EUR 12 / 9 reduced + admission",
+      "delacroix_museum": "Same-day Louvre ticket gives free entry to Musée Eugène-Delacroix (6 rue de Furstemberg), same day or next opening day",
+      "sources": ["https://www.louvre.fr/en/visit/hours-admission", "https://fr.euronews.com/2026/01/14/la-beaute-na-pas-de-prix-les-musees-francais-augmentent-leurs-prix-pour-les-non-europeens"]
+    },
+    "cloakroom_lockers": "Free self-service lockers under the Pyramid (Hall Napoléon, level -2, 'Vestiaire') and at Porte des Lions (closes 15:00). Max item size 55x35x20 cm; suitcases/large bags refused. Same-day pickup. Source: https://www.louvre.fr/en/visit/visitor-amenities",
+    "audioguide": "Official audioguide EUR 6, 150+ works / 200+ commentaries, 9 languages (FR, EN, ES, DE, IT, PT, ZH, KO, JA - no Hebrew). Rent at ticket office level -2 or reserve online; collect at Sully and Denon counters level -1. Max 6 per person. Nintendo 3DS guide was retired 1 Sep 2025; device type of the replacement not stated on louvre.fr. Sources: plan PDF May 2026; https://www.louvre.fr/en/visit/visitor-amenities; https://www.smithsonianmag.com/smart-news/the-louvre-stops-renting-out-nintendo-3ds-consoles-which-helped-visitors-navigate-the-massive-museum-for-13-years-180987328/",
+    "apps": "No official Louvre visit app (Louvre FAQ: https://contact.louvre.fr/hc/fr/articles/20178024833053-Proposez-vous-une-application-de-visite). Use the interactive map https://collections.louvre.fr/plan and the collections database. Exhibition-only web app for Zurbarán (zurbaran.louvre.fr).",
+    "wifi": "Free 'Louvre_Wifi_Gratuit' under the Pyramid and in galleries, 1-hour renewable sessions.",
+    "photos": "Photos/video for personal use allowed in permanent collections; NO flash, selfie sticks or lighting; some temporary-exhibition works not photographable. Tripods not addressed. Source: https://www.louvre.fr/en/visit/museum-rules ; 2026 rules PDF https://api-www.louvre.fr/sites/default/files/2026-01/2026_Reglement_de_visite_Musee_du_Louvre.pdf",
+    "food": "No eating/drinking in galleries. Cafés inside the palace include Café Mollien (Denon 1, by the Mollien staircase/room 700, terrace over Pyramid), Café Richelieu-Angelina (Richelieu 1, near Napoleon III apts), Terrasse Colbert, La Boulangerie du Louvre, Café Pyramide & Les Comptoirs du Louvre (Hall Napoléon area), MUSES, Café des Lions. Plan PDF: terraces Mollien, Richelieu, Colbert overlook the Pyramid. Sources: https://www.louvre.fr/en/visit/restaurants-cafes ; plan PDF.",
+    "toilets": "In Hall Napoléon and throughout the wings; marked on each level PNG (e.g. Denon 1 near 715 and 720, Richelieu 1 near 564/519/500, Sully 1 near 645/636). Most with baby changing. Free toilets also in Tuileries.",
+    "accessibility": "Free loan of wheelchairs, strollers, baby carriers, canes, folding stools at Espace Assistance, level -2 (ID deposit).",
+    "exit": "Exit is final - no re-entry.",
+    "current_exhibitions": "Louvre Photo (4 Nov 2026 - 3 May 2027); Zurbarán (7 Oct 2026 - 25 Jan 2027); Sculpting Colour (Valladolid) - per search summaries, unverified on louvre.fr"
+  },
+  "open_questions": [
+    "No December 2026 room-opening schedule published yet (current one ends 1 Dec). Re-check https://www.louvre.fr/en/visit/list-of-available-galleries ~1 week before the visit.",
+    "Reason for the Sun 22 Nov 2026 late-opening notice not stated.",
+    "Carrousel entrance: listed on the entrances page but current open/closed status is only on the live interactive map - not confirmed.",
+    "Reservation becomes mandatory 19 Dec 2026 - 4 Jan 2027; if the visit falls in that window a time slot is required.",
+    "Audioguide hardware type after the 3DS (Sep 2025) not documented; no Hebrew language.",
+    "Room numbers for Galerie Médicis (801?) and Roman antiquities (~405-423?) inferred from plan layout, not stated in text.",
+    "Exact café locations/hours not listed on louvre.fr restaurant page; locations come from the plan icons and third-party guides.",
+    "Strike settlement (29 Oct 2026) and possible lower daily visitor cap come from a secondary source; not confirmed on louvre.fr.",
+    "Dates/room numbers on the May 2026 plan (hatched closures) may lag the live schedule - live schedule wins."
+  ]
+}

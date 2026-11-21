@@ -1,0 +1,1495 @@
+{
+ "generated": "2026-11-21",
+ "scope": "Antiquities + Old Testament + culture (paintings/New Testament covered elsewhere)",
+ "source_note": "Locations pulled from collections.louvre.fr JSON records (ark URL + '.json'), checked 2026-11-21. Room-closure info from louvre.fr 'list of available galleries' (schedule 2 Nov – 1 Dec 2026).",
+ "closures_nov_2026": [
+  "Islamic Art (Denon -2/-1): closed for renovation",
+  "Roman Antiquities (Denon 0): closed for renovation",
+  "Greek Antiquities / Galerie Campana (Sully 1): closed",
+  "Galerie d'Apollon: open, but no crown jewels on display"
+ ],
+ "objects": [
+  {
+   "key": "charles6_helmet",
+   "name_he": "הלובר של ימי הביניים – קסדת שארל השישי",
+   "name_orig": "Chapel doré : casque de Charles VI / Louvre médiéval",
+   "inv": "OA 12014",
+   "date": "ראשית המאה ה-15",
+   "place_of_origin": "פריז",
+   "wing": "Sully",
+   "level": -1,
+   "room": 136,
+   "room_name": "Salle saint Louis Nord",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [HIST LOUVRE] Salle 136 - Salle saint Louis Nord, Vitrine 04",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010114735",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Medieval_Louvre_Castle",
+    "he": null
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "בקומת המרתף של אגף סולי נחשפו יסודות המבצר שבנה המלך פיליפ אוגוסט סביב 1200 – החפיר, החומות ובסיס המגדל המרכזי. בתצוגה של 'לובר ימי הביניים' מוצגת קסדת הטקס המוזהבת של שארל השישי, שנמצאה מנופצת בבאר המגדל.",
+   "more_he": [
+    "הקסדה נמצאה ב-1984 בחפירות 'הלובר הגדול' בחצר המרובעת – ביותר מ-150 שברים.",
+    "לפי רישומי המוזיאון, גנב שבר אותה כדי למכור את המתכת וזרק את השאר לבאר, לפני שהבאר נסתמה ב-1528.",
+    "זו קסדת טקס ולא קסדת קרב: נחושת מוזהבת ומאומלת, עם כתר שושנים (פלר-דה-ליס) – סמל המלוכה הצרפתית.",
+    "בדרך לקסדה עוברים לאורך החפיר המקורי ובסיסי המגדלים – אפשר לראות סימני סתתים על האבנים.",
+    "מספרי החדרים של החפיר עצמו לא מופיעים באתר האוסף; הקסדה עצמה בחדר 136 ('אולם סן לואי הצפוני')."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010114735",
+    "https://en.wikipedia.org/wiki/Medieval_Louvre_Castle"
+   ],
+   "order": 1
+  },
+  {
+   "key": "ramses3_sarcophagus",
+   "name_he": "ארון הקבורה של רעמסס השלישי",
+   "name_orig": "Cuve du sarcophage de Ramsès III",
+   "inv": "N 337 (D 1)",
+   "date": "1184–1153 לפנה\"ס",
+   "place_of_origin": "עמק המלכים, תבאי (מצרים)",
+   "wing": "Sully",
+   "level": -1,
+   "room": 323,
+   "room_name": "Crypte d'Osiris",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 323 - Crypte d'Osiris, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010011413",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Ramesses_III",
+    "he": "https://he.wikipedia.org/wiki/רעמסס_השלישי"
+   },
+   "bible": "עמוס ט:7",
+   "tier": 3,
+   "desc_he": "ארגז גרניט אדיר של רעמסס השלישי, הפרעה שהדף את 'גויי הים' – ובהם הפלשתים (פְּלֶשֶׁת) – בסביבות 1175 לפנה\"ס. אחרי המפלה התיישבו הפלשתים בשפלת החוף של ארץ ישראל, ומשם הם נכנסים לסיפורי שמשון, שאול ודוד.",
+   "more_he": [
+    "המכסה לא כאן: הוא נמצא במוזיאון פיצוויליאם בקיימברידג'.",
+    "על הדפנות חרוטים פרקים מ'ספר מה שבעולם התחתון' (השעות 7–8) – מסע השמש בלילה.",
+    "איזיס ונפתיס פורשות כנפיים בראש ובכפות הרגליים, כדי לגונן על המלך.",
+    "נרכש ב-1826 מאוסף הקונסול הבריטי הנרי סולט.",
+    "מוצג ב'קריפטת אוזיריס' בקומה ‎-1, ליד הספינקס."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010011413",
+    "https://en.wikipedia.org/wiki/Ramesses_III",
+    "https://he.wikipedia.org/wiki/רעמסס_השלישי"
+   ],
+   "order": 2
+  },
+  {
+   "key": "sphinx_tanis",
+   "name_he": "הספינקס הגדול מטניס",
+   "name_orig": "Sphinx de Tanis / Great Sphinx of Tanis",
+   "inv": "N 23 (A 23)",
+   "date": "הממלכה התיכונה (לפי ב. פיי: אמנמחת השני), עם כתובות מאוחרות של מרנפתח ושישק",
+   "place_of_origin": "טניס (צוען), דלתת הנילוס",
+   "wing": "Sully",
+   "level": -1,
+   "room": 338,
+   "room_name": "Crypte du sphinx",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 338 - Crypte du sphinx, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010010062",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Tanis",
+    "he": null
+   },
+   "bible": "מלכים א יד:25",
+   "tier": 1,
+   "desc_he": "ספינקס גרניט ורוד באורך 4.8 מ', מהגדולים מחוץ למצרים, שמשמר את הכניסה לאגף המצרי. כמה פרעונים 'מחזרו' אותו וחרטו עליו את שמם – ביניהם מרנפתח ושישק (ששונק הראשון), הפרעה שעלה על ירושלים בימי רחבעם.",
+   "more_he": [
+    "טניס היא צוען המקראית: 'וחברון שבע שנים נבנתה לפני צען מצרים' (במדבר יג:22), ו'שדה צוען' של מכות מצרים (תהלים עח:12).",
+    "שישק, ששמו מופיע בין הכתובות, 'עלה על ירושלים ויקח את אוצרות בית ה'' (מלכים א יד:25–26).",
+    "גם מרנפתח – בעל 'מצבת ישראל' שבקהיר, האזכור החוץ-מקראי הראשון של השם ישראל – הוסיף כאן את שמו.",
+    "מידות לפי המוזיאון: אורך 480 ס\"מ, גובה 183 ס\"מ. נרכש ב-1826 מאוסף הנרי סולט.",
+    "מוצג ב'קריפטת הספינקס' (חדר 338, קומה ‎-1) – נקודת פתיחה טובה לאגף המצרי."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010010062",
+    "https://en.wikipedia.org/wiki/Great_Sphinx_of_Tanis"
+   ],
+   "order": 3
+  },
+  {
+   "key": "ramses2_abydos",
+   "name_he": "קיר מקדש רעמסס השני באבידוס",
+   "name_orig": "Paroi d'un temple de Ramsès II",
+   "inv": "N 127 / N 128",
+   "date": "1279–1212 לפנה\"ס",
+   "place_of_origin": "מקדש רעמסס השני, אבידוס (מצרים)",
+   "wing": "Sully",
+   "level": 0,
+   "room": 324,
+   "room_name": "Le temple",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 324 - Le temple, Vitrine 2",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010011438",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Ramesses_II",
+    "he": "https://he.wikipedia.org/wiki/רעמסס_השני"
+   },
+   "bible": "שמות א:11",
+   "tier": 2,
+   "desc_he": "גושי אבן מתוך מקדש שבנה רעמסס השני באבידוס, עם תבליטים צבועים. רעמסס השני הוא המועמד המקובל ביותר ל'פרעה של השעבוד', והעיר 'רעמסס' שבנו בני ישראל קרויה, כנראה, על שמו.",
+   "more_he": [
+    "'ויבן ערי מסכנות לפרעה את פתם ואת רעמסס' (שמות א:11) – פי-רעמסס הייתה בירתו של רעמסס השני בדלתא.",
+    "רעמסס השני שלט 66 שנה ובנה יותר מכל פרעה אחר; שמו חרוט על מאות מונומנטים, לפעמים מעל שמות של קודמיו.",
+    "אין שום ממצא שמזכיר את יציאת מצרים במפורש – הזיהוי עם רעמסס השני נשען על שם העיר ועל ההקשר ההיסטורי.",
+    "מוצג בחדר 'המקדש' (324), סמוך לגלגל המזלות מדנדרה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010011438",
+    "https://en.wikipedia.org/wiki/Ramesses_II",
+    "https://he.wikipedia.org/wiki/רעמסס_השני"
+   ],
+   "order": 4
+  },
+  {
+   "key": "dendera_zodiac",
+   "name_he": "גלגל המזלות מדנדרה",
+   "name_orig": "Zodiaque de Dendéra",
+   "inv": "E 13482 (D 38)",
+   "date": "בערך 50 לפנה\"ס (קלאופטרה השביעית)",
+   "place_of_origin": "מקדש חתחור, דנדרה (מצרים)",
+   "wing": "Sully",
+   "level": 0,
+   "room": 325,
+   "room_name": "Les chapelles",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 325 - Les chapelles, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010028871",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Dendera_zodiac",
+    "he": null
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "תקרת אבן עגולה מקפלה על גג מקדש חתחור בדנדרה – מפת שמיים מצרית שמשלבת את 12 המזלות הבבליים-יווניים עם קבוצות כוכבים מצריות. אחד המקורות הקדומים והשלמים למפת השמיים העתיקה.",
+   "more_he": [
+    "ב-1821 עקרו אותה שליחים צרפתים מהתקרה בחומרי נפץ ובמסורים ושלחו אותה לפריז; לואי ה-18 קנה אותה.",
+    "בדנדרה עצמה תלוי היום עותק גבס במקום המקור.",
+    "המזלות המוכרים – טלה, שור, תאומים ועוד – מופיעים לצד אלים מצריים, ומראים איך אסטרונומיה בבלית הגיעה למצרים התלמית.",
+    "כדאי להסתכל מתחת: התקרה מוצגת כמו במקורה, ואפשר לראות את ארבע הדמויות הנושאות את 'כיפת השמיים'."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010028871",
+    "https://en.wikipedia.org/wiki/Dendera_zodiac"
+   ],
+   "order": 5
+  },
+  {
+   "key": "akhethetep_mastaba",
+   "name_he": "קפלת המסטבה של אח'תחותפ",
+   "name_orig": "Mastaba d'Akhethétep",
+   "inv": "E 10958 A",
+   "date": "בערך 2490–2432 לפנה\"ס (השושלת החמישית)",
+   "place_of_origin": "סקארה הצפונית (מצרים)",
+   "wing": "Sully",
+   "level": 0,
+   "room": 333,
+   "room_name": "Les travaux des champs",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 333 - Les travaux des champs, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010077681",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Akhethetep",
+    "he": null
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "קפלת קבורה שלמה של פקיד מהממלכה הקדומה, שהובאה מסקארה ונבנתה מחדש בלובר – אפשר ממש להיכנס פנימה. על הקירות סצנות של חיי יום-יום: חקלאות, דיג, הגשת מנחות וספירת מסים.",
+   "more_he": [
+    "המוזיאון קנה את הקפלה ב-1903 מרשות העתיקות המצרית.",
+    "בקיר האחורי 'דלת מדומה' – פתח סמלי שדרכו רוחו של המת יוצאת לקבל מנחות.",
+    "סצנת 'הצגת החשבונות' מראה סופרים רושמים מסים – רקע יפה לתיאורי הבירוקרטיה המצרית בסיפור יוסף, אם כי הקפלה קדומה ממנו בהרבה.",
+    "מידות החדר: כ-4.3 מ' גובה ו-4.8 מ' אורך."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010077681",
+    "https://en.wikipedia.org/wiki/Akhethetep"
+   ],
+   "order": 6
+  },
+  {
+   "key": "baal_stele",
+   "name_he": "מצבת 'בעל עם הברק' מאוגרית",
+   "name_orig": "Stèle du Baal au foudre / Baal with Thunderbolt",
+   "inv": "AO 15775",
+   "date": "תקופת הברונזה התיכונה–המאוחרת (2000–1150 לפנה\"ס לפי המוזיאון)",
+   "place_of_origin": "אוגרית (ראס שמרה), סוריה",
+   "wing": "Sully",
+   "level": 0,
+   "room": 301,
+   "room_name": "Levant - Syrie côtière",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 301 - Levant - Syrie côtière, Ougarit et Byblos, des origines à l'âge du fer, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010140542",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Baal_with_Thunderbolt",
+    "he": "https://he.wikipedia.org/wiki/בעל_(אל)"
+   },
+   "bible": "מלכים א יח:21",
+   "tier": 1,
+   "desc_he": "הדמות הכי מוחשית של בעל, אל הסערה הכנעני: הוא מניף אלה ביד אחת ומחזיק ביד השנייה ברק שצומח כמו ענף. זה האל שנגדו נאבקו אליהו והנביאים – 'עד מתי אתם פוסחים על שתי הסעיפים'.",
+   "more_he": [
+    "נמצאה ב-28 במאי 1932 על האקרופוליס של אוגרית, ממערב למקדש בעל, במשלחת של קלוד שפר.",
+    "בעל עומד מעל הרים וים – רמז למיתוס האוגריתי שבו הוא מנצח את ים, אל הים.",
+    "דמות קטנה בבגד ארוך לרגליו היא, כנראה, מלך אוגרית שעומד תחת חסותו.",
+    "התואר האוגריתי של בעל, 'רוכב ערפות' (רוכב העננים), מזכיר את 'סלו לרוכב בערבות' (תהלים סח:5).",
+    "גובה: 144 ס\"מ."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010140542",
+    "https://en.wikipedia.org/wiki/Baal_with_Thunderbolt",
+    "https://he.wikipedia.org/wiki/בעל_(אל)"
+   ],
+   "order": 7
+  },
+  {
+   "key": "ugarit_abecedary",
+   "name_he": "לוח האלפבית מאוגרית",
+   "name_orig": "Abécédaire cunéiforme (tablette)",
+   "inv": "AO 19992",
+   "date": "1400–1200 לפנה\"ס",
+   "place_of_origin": "אוגרית (ראס שמרה), סוריה",
+   "wing": "Sully",
+   "level": 0,
+   "room": 301,
+   "room_name": "Levant - Syrie côtière",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 301 - Levant - Syrie côtière, Ougarit et Byblos, des origines à l'âge du fer, Vitrine 5 Inscriptions alphabétiques",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010144705",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Ugaritic_alphabet",
+    "he": "https://he.wikipedia.org/wiki/אלפבית_אוגריתי"
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "לוח חרס קטן ועליו רשימת אותיות האלפבית האוגריתי – כתב יתדות שהוא אלפבית של ממש ולא כתב הברתי. סדר האותיות כמעט זהה לסדר א-ב-ג-ד העברי, הוכחה שסדר האלפבית שלנו קיים כבר יותר מ-3,300 שנה.",
+   "more_he": [
+    "באלפבית האוגריתי 30 אותיות; בלוח הזה חסרות שבע (לפי המוזיאון).",
+    "השפה האוגריתית קרובה לעברית המקראית, והטקסטים מאוגרית שופכים אור על מילים קשות בתנ\"ך.",
+    "הכתב נראה כמו כתב יתדות בבלי, אבל כל סימן מייצג עיצור אחד – בדיוק כמו באלפבית הכנעני-עברי.",
+    "מוצג בוויטרינה 5 'כתובות אלפביתיות' בחדר 301."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010144705",
+    "https://en.wikipedia.org/wiki/Ugaritic_alphabet",
+    "https://he.wikipedia.org/wiki/אלפבית_אוגריתי"
+   ],
+   "order": 8
+  },
+  {
+   "key": "mesha_stele",
+   "name_he": "מצבת מישע (האבן המואבית)",
+   "name_orig": "Stèle de Mesha / Mesha Stele",
+   "inv": "AO 5066",
+   "date": "המאה ה-9 לפנה\"ס (ימי מישע)",
+   "place_of_origin": "דיבון (דיבאן), ירדן",
+   "wing": "Sully",
+   "level": 0,
+   "room": 303,
+   "room_name": "Levant - Palestine et Transjordanie",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 303 - Levant - Palestine et Transjordanie, des origines à l'âge du fer, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010120339",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Mesha_Stele",
+    "he": "https://he.wikipedia.org/wiki/מצבת_מישע"
+   },
+   "bible": "מלכים ב ג:4-27",
+   "tier": 1,
+   "desc_he": "34 שורות בשפה המואבית (קרובה מאוד לעברית), שבהן מישע מלך מואב מתאר את מרידתו בישראל אחרי מות אחאב – אותו מרד שמתואר במלכים ב ג. זה אחד המסמכים החוץ-מקראיים החשובים ביותר: הוא מזכיר את עמרי מלך ישראל, את האל כמוש, ואת השם יהוה.",
+   "more_he": [
+    "'עמרי מלך ישראל ויענו את מאב ימן רבן' – מישע מאשר את השתלטות בית עמרי על מואב, כמו בתנ\"ך ('ומישע מלך מואב היה נקד', מלכים ב ג:4).",
+    "בשורה 18 מישע מתפאר שלקח מנבו 'את כלי יהוה' – האזכור החוץ-מקראי הקדום ביותר של שם ה'.",
+    "בשורה 31 הציע אנדרה למר ב-1994 לקרוא 'בית דוד'. ב-2019 הציעו פינקלשטיין, נאמן ורומר לקרוא 'בלק', אבל צילומי RTI חדשים שפרסם מישל לנגלואה ב-2022 חיזקו את הקריאה 'בית דוד' – והוויכוח עדיין פתוח.",
+    "המצבה התגלתה ב-1868. בדואים ניפצו אותה (לפי המסורת חיממו אותה באש ושפכו עליה מים קרים), אבל לפני כן הספיק שארל קלרמון-גאנו להכין טביעת נייר של הכתובת – וכך שוחזר הטקסט.",
+    "מה שרואים היום הוא שברים מקוריים משולבים בשחזור גבס; כדאי לחפש את ההבדל בצבע.",
+    "מוצגת בחדר 303, לצד מצבת שיחאן (האל המואבי) ומכתב אל-עמארנה ממגידו."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010120339",
+    "https://en.wikipedia.org/wiki/Mesha_Stele",
+    "https://he.wikipedia.org/wiki/מצבת_מישע"
+   ],
+   "order": 9
+  },
+  {
+   "key": "shihan_stele",
+   "name_he": "מצבת שיחאן – אל לוחם מואבי",
+   "name_orig": "Stèle de Shihan",
+   "inv": "AO 5055",
+   "date": "כנראה המאות ה-13–12 לפנה\"ס (תיארוך לא ודאי)",
+   "place_of_origin": "רג'ם אל-עבד, בין שיחאן לדיבון (ירדן)",
+   "wing": "Sully",
+   "level": 0,
+   "room": 303,
+   "room_name": "Levant - Palestine et Transjordanie",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 303 - Levant - Palestine et Transjordanie, des origines à l'âge du fer, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010120340",
+   "wikipedia_url": {
+    "en": null,
+    "he": null
+   },
+   "bible": "במדבר כא:29",
+   "tier": 2,
+   "desc_he": "תבליט בזלת של אל לוחם עם חנית, מארץ מואב. רבים מזהים אותו עם כמוש, אל מואב – 'אוי לך מואב, אבדת עם כמוש'.",
+   "more_he": [
+    "נמצאה סמוך לדיבון – העיר שבה נמצאה גם מצבת מישע, כך ששתי המצבות המואביות עומדות היום זו לצד זו.",
+    "הסגנון מושפע מאמנות מצרית ומאמנות צפון-סורית – מואב ישבה על דרך המלך, צומת מסחר בין מצרים לסוריה.",
+    "הזיהוי עם כמוש הוא השערה; המוזיאון מתאר את הדמות פשוט כ'אל לוחם של ממלכת מואב'."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010120340"
+   ],
+   "order": 10
+  },
+  {
+   "key": "amarna_megiddo",
+   "name_he": "מכתב אל-עמארנה מבירידיה, מלך מגידו",
+   "name_orig": "Lettre d'Amarna (EA 365)",
+   "inv": "AO 7098",
+   "date": "המאה ה-14 לפנה\"ס (ימי אחנתון)",
+   "place_of_origin": "אל-עמארנה (מצרים); נשלח ממגידו",
+   "wing": "Sully",
+   "level": 0,
+   "room": 303,
+   "room_name": "Levant - Palestine et Transjordanie",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 303 - Levant - Palestine et Transjordanie, des origines à l'âge du fer, Vitrine 4 L'âge du bronze récent 1550 - 1150 avant J.-C.",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010167798",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Amarna_letters",
+    "he": "https://he.wikipedia.org/wiki/מכתבי_אל-עמארנה"
+   },
+   "bible": "מלכים ב ד:8",
+   "tier": 2,
+   "desc_he": "לוח חימר קטן בכתב יתדות: מכתב תלונה של בירידיה, שליט מגידו, אל פרעה. הוא מתלונן שהוא לבדו שולח פועלים לעבודת כפייה בשדות שונם, בזמן ששאר השליטים המקומיים מתחמקים.",
+   "more_he": [
+    "'למלך אדוני ושמשי... לרגלי המלך שבע ושבע פעמים נפלתי' – נוסח הפתיחה הקבוע של מכתבי עמארנה.",
+    "שונם (שונמה) היא העיר של אבישג השונמית ושל האישה השונמית מסיפור אלישע (מלכים ב ד:8).",
+    "מכתבי עמארנה מציירים את כנען כמה מאות שנים לפני ממלכת ישראל: ערים קטנות, מלכים מקומיים שתלויים במצרים, וקבוצות 'חבירו'.",
+    "מוצג בוויטרינה 4 ('תקופת הברונזה המאוחרת') בחדר 303."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010167798",
+    "https://en.wikipedia.org/wiki/Amarna_letters",
+    "https://he.wikipedia.org/wiki/מכתבי_אל-עמארנה"
+   ],
+   "order": 11
+  },
+  {
+   "key": "apadana_capital",
+   "name_he": "כותרת העמוד מארמון דריווש בשושן",
+   "name_orig": "Chapiteau de l'Apadana",
+   "inv": "AOD 1",
+   "date": "522–486 לפנה\"ס (דריווש הראשון)",
+   "place_of_origin": "שושן (סוזה), אולם האפדנה, איראן",
+   "wing": "Sully",
+   "level": 0,
+   "room": 307,
+   "room_name": "Iran - L'empire perse achéménide : le palais de Darius Ier à Suse",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 307 - Iran - L'empire perse achéménide : le palais de Darius Ier à Suse, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010170688",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "he": "https://he.wikipedia.org/wiki/שושן"
+   },
+   "bible": "אסתר א:6",
+   "tier": 1,
+   "desc_he": "כותרת ענקית בצורת שני פרים, שעמדה בראש אחד מעמודי אולם המלכות (האפדנה) של דריווש הראשון בשושן. זה 'שושן הבירה' של מגילת אסתר, נחמיה ודניאל – ועמודי האבן האלה הם 'עמודי שש' שמתוארים בפתיחת המגילה.",
+   "more_he": [
+    "האולם שימש את מלכי פרס עד אחשוורוש (קסרקסס) וארתחשסתא – המלכים של מגילת אסתר ושל עזרא ונחמיה.",
+    "את השרידים חשפו מרסל וז'אן דיולפואה בחפירות 1884–1886.",
+    "על גבי ראשי הפרים הונחו קורות העץ של התקרה – נסו לדמיין אולם של 36 עמודים כאלה.",
+    "בשושן מצוי גם הקבר המיוחס לדניאל הנביא – אתר עלייה לרגל עד היום."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010170688",
+    "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "https://he.wikipedia.org/wiki/שושן"
+   ],
+   "order": 12
+  },
+  {
+   "key": "archers_frieze",
+   "name_he": "פריז הקשתים מארמון דריווש",
+   "name_orig": "Frise des archers",
+   "inv": "AOD 488",
+   "date": "522–486 לפנה\"ס (דריווש הראשון)",
+   "place_of_origin": "שושן (סוזה), ארמון דריווש, איראן",
+   "wing": "Sully",
+   "level": 0,
+   "room": 307,
+   "room_name": "Iran - L'empire perse achéménide : le palais de Darius Ier à Suse",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 307 - Iran - L'empire perse achéménide : le palais de Darius Ier à Suse, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010170854",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "he": "https://he.wikipedia.org/wiki/שושן"
+   },
+   "bible": "נחמיה א:1",
+   "tier": 1,
+   "desc_he": "לוחות לבנים מזוגגות בצבעים עזים: ארבעה קשתים בבגדי טקס, משני צדיה של כתובת תלת-לשונית של דריווש. כך נראו קירות הארמון שבו שירת נחמיה כשר המשקים – 'ואני הייתי בשושן הבירה'.",
+   "more_he": [
+    "מקובל לזהות את הקשתים עם משמר המלך – 'בני האלמוות' שהרודוטוס מתאר.",
+    "הלבנים מזוגגות, טכניקה שהפרסים למדו מבבל (השוו לאריה מדרך התהלוכה בחדר 230).",
+    "גם אסתר ומרדכי פועלים ב'שושן הבירה' – הסיפור מתרחש בחצר מלוכה פרסית כמו זו.",
+    "התגלו בחפירות דיולפואה ב-1884–1886; מה שרואים הוא הרכבה מחדש של לבנים מקוריות."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010170854",
+    "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "https://he.wikipedia.org/wiki/שושן"
+   ],
+   "order": 13
+  },
+  {
+   "key": "lions_frieze",
+   "name_he": "פריז האריות משושן",
+   "name_orig": "Frise des lions",
+   "inv": "AOD 489 A",
+   "date": "522–486 לפנה\"ס (דריווש הראשון)",
+   "place_of_origin": "שושן (סוזה), החצר המזרחית של ארמון דריווש",
+   "wing": "Sully",
+   "level": 0,
+   "room": 307,
+   "room_name": "Iran - L'empire perse achéménide : le palais de Darius Ier à Suse",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 307 - Iran - L'empire perse achéménide : le palais de Darius Ier à Suse, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010170855",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "he": "https://he.wikipedia.org/wiki/שושן"
+   },
+   "bible": "דניאל ח:2",
+   "tier": 2,
+   "desc_he": "אריות צועדים בלבנים מזוגגות, מאותו ארמון של דריווש בשושן. ספר דניאל ממקם את חזון האיל והצפיר 'בשושן הבירה', ובשושן מצוי עד היום קבר המיוחס לדניאל.",
+   "more_he": [
+    "האריה הוא מוטיב ישן במסופוטמיה – השוו לאריות של נבוכדנצר מבבל בחדר 230.",
+    "הפריז מוצג באותו אולם (307) עם פריז הקשתים וכותרת הפרים – כדאי לראות את שלושתם יחד.",
+    "בפריז שולבו אריות שהולכים ימינה ושמאלה (AOD 489 A–C)."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010170855",
+    "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "https://he.wikipedia.org/wiki/שושן"
+   ],
+   "order": 14
+  },
+  {
+   "key": "darius_charter",
+   "name_he": "מגילת היסוד של ארמון דריווש",
+   "name_orig": "Charte de fondation du palais de Darius Ier (DSf)",
+   "inv": "SB 2789",
+   "date": "522–486 לפנה\"ס",
+   "place_of_origin": "שושן, מתחת לסף באפדנה",
+   "wing": "Sully",
+   "level": 0,
+   "room": 309,
+   "room_name": "Iran - L'empire perse achéménide : Persépolis et Suse",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 309 - Iran - L'empire perse achéménide : Persépolis et Suse, Vitrine 4 Langues et écritures d'empire achéménide",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010176876",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "he": "https://he.wikipedia.org/wiki/דריווש_הראשון"
+   },
+   "bible": "עזרא ו:15",
+   "tier": 2,
+   "desc_he": "לוח חימר בפרסית עתיקה שהוטמן מתחת לסף בארמון. דריווש מפרט בו מאיפה הביא כל חומר בנייה – ובין השאר ארזים מהלבנון. זה אותו דריווש שבשנת מלכותו השישית הושלם בית המקדש השני.",
+   "more_he": [
+    "דריווש מספר שהארזים הובאו מהלבנון לבבל, ומשם לשושן – תמונה דומה לארזים שהובאו לבניין הבית השני (עזרא ג:7).",
+    "לפי הכתובת, עמים מכל רחבי האימפריה עבדו בבנייה: יוונים, מצרים, מדים, בבלים ועוד.",
+    "הכתובת קיימת בכמה עותקים ובשלוש שפות (פרסית עתיקה, עילמית ואכדית); הלוח הזה הוא הנוסח הפרסי.",
+    "מוצג בחדר 309, וויטרינה 4: 'שפות וכתבים באימפריה האחמנית'."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010176876",
+    "https://en.wikipedia.org/wiki/Palace_of_Darius_in_Susa",
+    "https://he.wikipedia.org/wiki/דריווש_הראשון"
+   ],
+   "order": 15
+  },
+  {
+   "key": "eshmunazar_sarcophagus",
+   "name_he": "ארון הקבורה של אשמנעזר השני מלך צידון",
+   "name_orig": "Sarcophage d'Eshmunazor",
+   "inv": "AO 4806",
+   "date": "הרבע הראשון של המאה ה-5 לפנה\"ס",
+   "place_of_origin": "צידון (מערת מע'רת טבלון), לבנון",
+   "wing": "Sully",
+   "level": 0,
+   "room": 311,
+   "room_name": "Byblos - Phénicie - Sidon - Les royaumes phéniciens du Nord - Umm el-Amed",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 311 - Byblos - Phénicie - Sidon - Les royaumes phéniciens du Nord - Umm el-Amed, 2 eme travée",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010120357",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Sarcophagus_of_Eshmunazar_II",
+    "he": "https://he.wikipedia.org/wiki/ארון_קבורת_אשמונעזר_השני"
+   },
+   "bible": "מלכים א ו:38; עזרא ג:7",
+   "tier": 1,
+   "desc_he": "ארון אבן שחורה בסגנון מצרי, ועל מכסהו הכתובת הפניקית הארוכה ביותר מהתקופה הפרסית. אפשר כמעט לקרוא אותה בעברית: היא פותחת ב'בירח בל' – אותו 'ירח בול' שבו הושלם מקדש שלמה – ומספרת ש'אדון המלכים' הפרסי נתן לצידונים את דור ויפו.",
+   "more_he": [
+    "אשמנעזר מת צעיר: 'נגזלתי בלא עתי... יתום בן אלמנה'. אמו, אמעשתרת, הייתה כוהנת של עשתרת.",
+    "הכתובת מקללת כל מי שיפתח את הקבר – ומוסיפה שאין בו שום אוצר.",
+    "דור ויפו בשרון ניתנו לצידון על ידי מלך פרס – בדיוק בתקופת שיבת ציון, כשצידונים וצורים הביאו ארזים 'אל ים יפוא' לבניין הבית השני (עזרא ג:7).",
+    "האבן הובאה מוואדי חמאמאת שבמצרים; ייתכן שהארון יוצר במקור עבור אציל מצרי והגיע לצידון כשלל.",
+    "נמצא ב-1855 ליד צידון; הדוכס דה לויין קנה אותו ותרם ללובר.",
+    "חדר 311 ('ביבלוס – פניקיה – צידון')."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010120357",
+    "https://en.wikipedia.org/wiki/Sarcophagus_of_Eshmunazar_II",
+    "https://he.wikipedia.org/wiki/ארון_קבורת_אשמונעזר_השני"
+   ],
+   "order": 16
+  },
+  {
+   "key": "palmyra_triad",
+   "name_he": "השילוש האלוהי מתדמור",
+   "name_orig": "Triade divine (Baalshamin, Aglibol, Malakbel)",
+   "inv": "AO 19801",
+   "date": "המאה ה-1 לספירה",
+   "place_of_origin": "תדמור (פלמירה), סוריה",
+   "wing": "Sully",
+   "level": 0,
+   "room": 315,
+   "room_name": "Arabie - Les cités caravanières",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AO] Salle 315 - Arabie - Les cités caravanières, Dura Europos, Palmyre, Vitrine 3 Palmyre reliefs cultuels",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010127854",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Palmyra",
+    "he": "https://he.wikipedia.org/wiki/תדמור"
+   },
+   "bible": "דברי הימים ב ח:4",
+   "tier": 2,
+   "desc_he": "תבליט פולחן של שלושה אלים חמושים: בעל-שמין, 'אדון השמיים', במרכז, ולצדו אגלבול (הירח) ומלכבל (השמש). תדמור, עיר הנאת המדבר, מופיעה בתנ\"ך כעיר ששלמה 'בנה במדבר'.",
+   "more_he": [
+    "השם 'בעל-שמין' הוא 'בעל שמים' – קרוב ל'אלה שמיא' של ספר דניאל ועזרא.",
+    "האלים לבושים שריון רומי אבל מכנסיים פרסיים – תדמור ישבה בדיוק בין רומא לפרתיה.",
+    "על התבליט כתובות בארמית תדמורית: 'דכיר... בטב' (ייזכר לטובה) – נוסח הקדשה שמוכר גם מכתובות בבתי כנסת עתיקים.",
+    "מקדש בעל-שמין בתדמור פוצץ בידי דאע\"ש ב-2015.",
+    "חדר 315, וויטרינה 3."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010127854",
+    "https://en.wikipedia.org/wiki/Palmyra",
+    "https://he.wikipedia.org/wiki/תדמור"
+   ],
+   "order": 17
+  },
+  {
+   "key": "venus_de_milo",
+   "name_he": "ונוס ממילו",
+   "name_orig": "Vénus de Milo / Aphrodite of Melos",
+   "inv": "Ma 399 (LL 299)",
+   "date": "150–125 לפנה\"ס",
+   "place_of_origin": "האי מילוס, יוון",
+   "wing": "Sully",
+   "level": 0,
+   "room": 345,
+   "room_name": "Art grec classique et hellénistique (Vénus de Milo)",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AGER] Salle 345 - Art grec classique et hellénistique (Vénus de Milo), Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010277627",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Venus_de_Milo",
+    "he": "https://he.wikipedia.org/wiki/ונוס_ממילו"
+   },
+   "bible": null,
+   "tier": 1,
+   "desc_he": "פסל השיש המפורסם של אפרודיטה, אלת האהבה, שנמצא באי מילוס ב-1820. הוא פוסל בדיוק בתקופה שבה מרד המכבים מול השלטון היווני-הסלווקי – כך נראה 'היופי היווני' שהחשמונאים נאבקו מולו.",
+   "more_he": [
+    "הזרועות אבדו; התנוחה המקורית שנויה במחלוקת – אולי החזיקה תפוח, מראה או מגן.",
+    "שגריר צרפת, המרקיז דה ריבייר, קנה את הפסל והגיש אותו ללואי ה-18.",
+    "הפסל עשוי שני גושי שיש מפארוס שחוברו במותניים.",
+    "גובה: 2.04 מ'.",
+    "חדר 345 בקומת הקרקע של סולי – בדרך כלל עמוס; שווה להגיע מוקדם."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010277627",
+    "https://en.wikipedia.org/wiki/Venus_de_Milo",
+    "https://he.wikipedia.org/wiki/ונוס_ממילו"
+   ],
+   "order": 18
+  },
+  {
+   "key": "borghese_gladiator",
+   "name_he": "הגלדיאטור של בורגזה",
+   "name_orig": "Gladiateur Borghèse",
+   "inv": "Ma 527",
+   "date": "בערך 100 לפנה\"ס",
+   "place_of_origin": "אנציו (אנטיום), איטליה",
+   "wing": "Sully",
+   "level": 0,
+   "room": 348,
+   "room_name": "Dieux et héros du monde grec antique : Apollon",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AGER] Salle 348 - Dieux et héros du monde grec antique : Apollon, Artémis, Dionysos, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010278706",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Borghese_Gladiator",
+    "he": null
+   },
+   "bible": null,
+   "tier": 3,
+   "desc_he": "לוחם עירום בתנופת קרב, אחד הפסלים שהכי הושפעו מהם אמני הרנסנס. על גזע העץ חתום הפסל: 'אגסיאס בן דוסיתאוס מאפסוס עשה'.",
+   "more_he": [
+    "למרות השם זה לא גלדיאטור – כנראה לוחם שמתגונן מפני פרש.",
+    "החרב והמגן אבדו; הזרוע הימנית היא שחזור.",
+    "נפוליאון קנה אותו ב-1807 עם כל אוסף בורגזה מגיסו, קמילו בורגזה.",
+    "השם דוסיתאוס היה נפוץ גם בקרב יהודים דוברי יוונית באותה תקופה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010278706",
+    "https://en.wikipedia.org/wiki/Borghese_Gladiator"
+   ],
+   "order": 19
+  },
+  {
+   "key": "sleeping_hermaphroditus",
+   "name_he": "ההרמפרודיטוס הישן",
+   "name_orig": "Hermaphrodite endormi",
+   "inv": "Ma 231",
+   "date": "המחצית הראשונה של המאה ה-2 לספירה (העתק רומי)",
+   "place_of_origin": "רומא (נמצא ב-1618)",
+   "wing": "Sully",
+   "level": 0,
+   "room": 348,
+   "room_name": "Dieux et héros du monde grec antique : Apollon",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AGER] Salle 348 - Dieux et héros du monde grec antique : Apollon, Artémis, Dionysos",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010250571",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Sleeping_Hermaphroditus",
+    "he": "https://he.wikipedia.org/wiki/הרמאפרודיטוס_הישן"
+   },
+   "bible": null,
+   "tier": 3,
+   "desc_he": "דמות שוכבת שמגבה נראית כאישה ומלפנים מתגלה כבעלת שני מינים – הפתעה מכוונת של הפסל ההלניסטי. הפסל הרומי נמצא ברומא ב-1618.",
+   "more_he": [
+    "את המזרן שעליו שוכבת הדמות פיסל ג'אן לורנצו ברניני ב-1619 – ומשכנע עד כדי כך שנראה רך.",
+    "כדאי להקיף את הפסל: החוויה בנויה על הגילוי בצד השני.",
+    "הגיע ללובר עם אוסף בורגזה, יחד עם הגלדיאטור שבאותו חדר (348)."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010250571",
+    "https://en.wikipedia.org/wiki/Sleeping_Hermaphroditus",
+    "https://he.wikipedia.org/wiki/הרמאפרודיטוס_הישן"
+   ],
+   "order": 20
+  },
+  {
+   "key": "hammurabi_code",
+   "name_he": "חוקי חמורבי",
+   "name_orig": "Code de Hammurabi",
+   "inv": "SB 8",
+   "date": "1792–1750 לפנה\"ס",
+   "place_of_origin": "בבל (נמצא בשושן)",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 227,
+   "room_name": "Salle du code d'Hammurabi",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 227 - Salle du code d'Hammurabi, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010174436",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+    "he": "https://he.wikipedia.org/wiki/חוקי_חמורבי"
+   },
+   "bible": "שמות כא:24",
+   "tier": 1,
+   "desc_he": "מצבת בזלת שחורה בגובה 2.25 מ', ועליה כ-280 חוקים בכתב יתדות אכדי. בראשה עומד חמורבי מלך בבל מול שמש, אל הצדק. מבחינה מקראית זה פריט חובה: חלק גדול מ'משפטים' בספר שמות מקביל לחוקים כאן, כולל 'עין תחת עין'.",
+   "more_he": [
+    "חוק 196: 'אם אדם עיוור עין של בן חורין – יעוורו את עינו' – מקביל ל'עין תחת עין' (שמות כא:24).",
+    "חוקי 'השור הנגח' (250–251) כמעט זהים לשמות כא:28–29, כולל ההבחנה בין שור תם לשור מועד.",
+    "המצבה לא נמצאה בבבל אלא בשושן: המלך העילמי שותרוך-נחונטה לקח אותה כשלל במאה ה-12 לפנה\"ס ומחק כמה עמודות כדי לחרוט את שמו – אך לא הספיק.",
+    "התגלתה ב-1901–1902 במשלחת של ז'אק דה מורגן, בשלושה חלקים.",
+    "גם חוקים 'חסרים' מוכרים מעותקים על לוחות חימר – זו הייתה יצירת מופת שהועתקה במשך מאות שנים."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010174436",
+    "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+    "https://he.wikipedia.org/wiki/חוקי_חמורבי"
+   ],
+   "order": 21
+  },
+  {
+   "key": "naram_sin_stele",
+   "name_he": "מצבת הניצחון של נרם-סין",
+   "name_orig": "Stèle de Naram-Sin",
+   "inv": "Sb 4",
+   "date": "בערך 2250 לפנה\"ס",
+   "place_of_origin": "סיפר (נמצאה בשושן)",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 228,
+   "room_name": "Mésopotamie",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 228 - Mésopotamie, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010123450",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Victory_Stele_of_Naram-Sin",
+    "he": "https://he.wikipedia.org/wiki/האסטלה_של_נרם-סין"
+   },
+   "bible": "בראשית י:10",
+   "tier": 1,
+   "desc_he": "נרם-סין, מלך אכד, מטפס על הר בראש צבאו ורומס את אויביו מבני לולובו. זו אחת היצירות הראשונות בהיסטוריה שבהן מלך מתואר כאל – הוא חובש כובע קרניים, סמל של אלוהות.",
+   "more_he": [
+    "אכד מופיעה בתנ\"ך כחלק מממלכת נמרוד: 'ותהי ראשית ממלכתו בבל וארך ואכד וכלנה בארץ שנער' (בראשית י:10).",
+    "ההרכב היה מהפכני: במקום שורות מסודרות של דמויות, הצבא עולה באלכסון לעבר פסגת ההר.",
+    "גם היא נלקחה כשלל לשושן בידי שותרוך-נחונטה, שהוסיף על ההר כתובת משלו.",
+    "התגלתה בשושן ב-6 באפריל 1898."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010123450",
+    "https://en.wikipedia.org/wiki/Victory_Stele_of_Naram-Sin",
+    "https://he.wikipedia.org/wiki/האסטלה_של_נרם-סין"
+   ],
+   "order": 22
+  },
+  {
+   "key": "gudea_architect",
+   "name_he": "גודאה 'האדריכל עם התוכנית'",
+   "name_orig": "Gudea B dit « Architecte au plan »",
+   "inv": "AO 2",
+   "date": "בערך 2120 לפנה\"ס",
+   "place_of_origin": "גירסו (תלו), עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 228,
+   "room_name": "Mésopotamie",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 228 - Mésopotamie, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010119540",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Gudea",
+    "he": "https://he.wikipedia.org/wiki/גודאה"
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "פסל דיוריט של גודאה, שליט לגש, יושב ועל ברכיו תוכנית אדריכלית של מקדש – עם סרגל מדידה וחרט. זה אחד השרטוטים האדריכליים הקדומים בעולם.",
+   "more_he": [
+    "הכתובת בשומרית מספרת שגודאה בנה מקדש לאל נינגירסו בעקבות חלום – דפוס דומה לסיפורי בניית מקדשים במקרא.",
+    "הדיוריט הוא אבן קשה במיוחד שיובאה ממרחקים, מה שמעיד על עושרה של לגש.",
+    "מגודאה שרדו יותר מעשרים פסלים, רובם מדיוריט. הפסל הזה התגלה בתלו בחפירות ארנסט דה סרזק (1877–1881)."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010119540",
+    "https://en.wikipedia.org/wiki/Gudea",
+    "https://he.wikipedia.org/wiki/גודאה"
+   ],
+   "order": 23
+  },
+  {
+   "key": "lamassu_khorsabad",
+   "name_he": "הלמאסו – השוורים המכונפים מארמון סרגון",
+   "name_orig": "Taureaux androcéphales ailés (lamassu)",
+   "inv": "AO 19857 (וגם AO 19858)",
+   "date": "721–705 לפנה\"ס (סרגון השני)",
+   "place_of_origin": "דור שרוכין (ח'ורסבאד), עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 229,
+   "room_name": "Elahé Omidyar - Mir-Djalali",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 229 - Elahé Omidyar - Mir-Djalali, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010122557",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Lamassu",
+    "he": null
+   },
+   "bible": "ישעיהו כ:1",
+   "tier": 1,
+   "desc_he": "שוורים ענקיים בעלי ראש אדם וכנפיים, בגובה 4.2 מ', ששמרו על שערי הארמון של סרגון השני. סרגון הוא המלך שהשלים את חורבן שומרון ואת גלות עשרת השבטים, והוא מוזכר בשמו בתנ\"ך פעם אחת: 'בשנת בא תרתן אשדודה בשלח אתו סרגון מלך אשור' (ישעיהו כ:1).",
+   "more_he": [
+    "ספרו את הרגליים: לכל שור חמש – כדי שמלפנים ייראה עומד ומהצד ייראה פוסע.",
+    "בכתובות הארמון סרגון מתפאר שהגלה 27,290 מתושבי שומרון (מלכים ב יז:6).",
+    "הארמון היה הארמון האשורי הראשון שנחשף בעת החדשה – בחפירות פול-אמיל בוטה ב-1843–1844.",
+    "השור AO 19857 נוסר לשישה לוחות כדי להובילו לפריז.",
+    "החצר כולה (חדר 229) בנויה כמו חזית הארמון: זה החדר הכי 'מקראי' באגף."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010122557",
+    "https://en.wikipedia.org/wiki/Lamassu",
+    "https://en.wikipedia.org/wiki/Sargon_II",
+    "https://he.wikipedia.org/wiki/סרגון_השני"
+   ],
+   "order": 24
+  },
+  {
+   "key": "sargon_dignitary",
+   "name_he": "סרגון השני מול נכבד בחצרו",
+   "name_orig": "Le roi Sargon II et un dignitaire",
+   "inv": "AO 19873–19874",
+   "date": "721–705 לפנה\"ס",
+   "place_of_origin": "דור שרוכין (ח'ורסבאד), עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 229,
+   "room_name": "Elahé Omidyar - Mir-Djalali",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 229 - Elahé Omidyar - Mir-Djalali, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010122698",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Sargon_II",
+    "he": "https://he.wikipedia.org/wiki/סרגון_השני"
+   },
+   "bible": "ישעיהו כ:1",
+   "tier": 2,
+   "desc_he": "תבליט בגובה 3.3 מ' של סרגון השני עצמו, עם כתר אשורי ושרביט, מול אחד מנכבדי החצר. זה הפנים של המלך שהגלה את ישראל.",
+   "more_he": [
+    "יש המזהים את הנכבד עם סנחריב, בנו ויורשו של סרגון – המלך שעלה על ירושלים בימי חזקיהו. הזיהוי לא ודאי.",
+    "בגב התבליט כתובת של 20 שורות.",
+    "שימו לב לפרטים: עגילים, צמידים בצורת רוזטה, והזקן המסולסל בקפידה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010122698",
+    "https://en.wikipedia.org/wiki/Sargon_II",
+    "https://he.wikipedia.org/wiki/סרגון_השני"
+   ],
+   "order": 25
+  },
+  {
+   "key": "cedar_transport",
+   "name_he": "הובלת ארזים בים – תבליט מארמון סרגון",
+   "name_orig": "Transport du bois de cèdre (Expédition navale)",
+   "inv": "AO 19888 (וגם AO 19889–19891)",
+   "date": "721–705 לפנה\"ס",
+   "place_of_origin": "דור שרוכין (ח'ורסבאד), עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 229,
+   "room_name": "Elahé Omidyar - Mir-Djalali",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 229 - Elahé Omidyar - Mir-Djalali, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010122711",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
+    "he": "https://he.wikipedia.org/wiki/דור_שרוכין"
+   },
+   "bible": "מלכים א ה:23",
+   "tier": 2,
+   "desc_he": "סירות פניקיות גוררות ונושאות גזעי ארז לאורך החוף. כך בדיוק מתאר המקרא את הובלת הארזים מחירם מלך צור לשלמה: 'ואני אשימם דברות בים עד המקום אשר תשלח אלי'.",
+   "more_he": [
+    "לפי המוזיאון, החיילים מובילים גזעי ארז שנכרתו בהרי האמנוס (דרום טורקיה של היום).",
+    "חרטומי הסירות מעוצבים כראש סוס – סימן היכר של ספינות פניקיות, ה'היפוי'.",
+    "הים מלא בדגים, צבים ואפילו יצורים מיתולוגיים.",
+    "התבליטים נחרכו בשריפה כשהארמון נבזז, ושוחזרו בחלקם."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010122711",
+    "https://en.wikipedia.org/wiki/Dur-Sharrukin",
+    "https://he.wikipedia.org/wiki/דור_שרוכין"
+   ],
+   "order": 26
+  },
+  {
+   "key": "tiglath_pileser3",
+   "name_he": "תגלת-פלאסר השלישי",
+   "name_orig": "Orthostate : Tiglat-Phalasar III",
+   "inv": "AO 19853",
+   "date": "745–727 לפנה\"ס",
+   "place_of_origin": "כלח (נמרוד), עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 230,
+   "room_name": "Mésopotamie - Syrie du Nord",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 230 - Mésopotamie - Syrie du Nord, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010123103",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Tiglath-Pileser_III",
+    "he": "https://he.wikipedia.org/wiki/תגלת-פלאסר_השלישי"
+   },
+   "bible": "מלכים ב טו:29",
+   "tier": 1,
+   "desc_he": "דיוקן של תגלת-פלאסר השלישי, המלך האשורי שהפך את אשור לאימפריה. הוא כבש את הגליל ואת הגלעד בימי פקח מלך ישראל והגלה את תושביהם – הגלות הראשונה מארץ ישראל.",
+   "more_he": [
+    "במקרא הוא נקרא גם 'פול' (מלכים ב טו:19); מנחם מלך ישראל שילם לו אלף ככר כסף.",
+    "אחז מלך יהודה נסע לפגוש אותו בדמשק והעתיק משם את צורת המזבח (מלכים ב טז:10).",
+    "התבליט בא מארמונו בכלח – העיר שבנה, לפי בראשית י:11, נמרוד/אשור.",
+    "שימו לב לנוצות הכתר ולזרוע המורמת, שנשברה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010123103",
+    "https://en.wikipedia.org/wiki/Tiglath-Pileser_III",
+    "https://he.wikipedia.org/wiki/תגלת-פלאסר_השלישי"
+   ],
+   "order": 27
+  },
+  {
+   "key": "hazael_ivory",
+   "name_he": "שנהב חזאל מארסלן טאש",
+   "name_orig": "Ivoire d'Arslan Tash inscrit (Hazaël)",
+   "inv": "AO 11489",
+   "date": "סוף המאה ה-9 לפנה\"ס",
+   "place_of_origin": "ארסלן טאש (חדתו), צפון סוריה",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 230,
+   "room_name": "Mésopotamie - Syrie du Nord",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 230 - Mésopotamie - Syrie du Nord, Vitrine 2 Ivoires d'Arslan Tash.",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010136213",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Arslan_Tash_ivory_inscription",
+    "he": "https://he.wikipedia.org/wiki/כתובת_השנהב_מארסלאן_טאש"
+   },
+   "bible": "מלכים ב ח:15",
+   "tier": 1,
+   "desc_he": "רצועת שנהב קטנה מעיטור של מיטה, ועליה כתובת ארמית: '[המיטה ש]הקדיש העם לאדוננו חזאל'. חזאל הוא מלך ארם-דמשק שאלישע ניבא את עלייתו ושנלחם בישראל וביהודה.",
+   "more_he": [
+    "'מיטות שן' הן בדיוק המותרות שעמוס מוקיע: 'השוכבים על מטות שן... ואוכלים כרים מצאן' (עמוס ו:4).",
+    "שנהבים בסגנון זהה נמצאו בשומרון – ממה שמכונה 'בית השן אשר בנה' אחאב (מלכים א כב:39).",
+    "לפי המוזיאון, ייתכן שהשנהבים הגיעו לארסלן טאש כשלל מדמשק אחרי שתגלת-פלאסר השלישי כבש אותה ב-732 לפנה\"ס.",
+    "חזאל הוא כנראה גם מחבר מצבת תל דן, שבה מופיע 'בית דוד'.",
+    "השנהבים נחפרו ב-1928 בידי פרנסואה תורו-דנז'ן. בוויטרינה 2 בחדר 230 יש עוד הרבה מהם."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010136213",
+    "https://en.wikipedia.org/wiki/Arslan_Tash_ivory_inscription",
+    "https://he.wikipedia.org/wiki/כתובת_השנהב_מארסלאן_טאש",
+    "https://en.wikipedia.org/wiki/Hazael",
+    "https://he.wikipedia.org/wiki/חזאל"
+   ],
+   "order": 28
+  },
+  {
+   "key": "babylon_lion",
+   "name_he": "אריה מדרך התהלוכה בבבל",
+   "name_orig": "Panneau de briques : lion passant",
+   "inv": "AO 21118",
+   "date": "604–562 לפנה\"ס (נבוכדנצר השני)",
+   "place_of_origin": "בבל, עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 230,
+   "room_name": "Mésopotamie - Syrie du Nord",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 230 - Mésopotamie - Syrie du Nord, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010145844",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Ishtar_Gate",
+    "he": "https://he.wikipedia.org/wiki/שער_אשתר"
+   },
+   "bible": "דניאל ד:27",
+   "tier": 1,
+   "desc_he": "לוח לבנים מזוגגות של אריה צועד, מתוך דרך התהלוכה שהובילה לשער אשתר בבבל. נבוכדנצר בנה אותה – אותו מלך שהחריב את ירושלים ובית המקדש הראשון ב-586 לפנה\"ס והגלה את יהודה.",
+   "more_he": [
+    "גולי יהודה, ואולי גם דניאל וחבריו, הלכו כנראה ממש לאורך האריות האלה.",
+    "'הלא דא היא בבל רבתא די אנה בניתה' – כך מתפאר נבוכדנצר בספר דניאל (ד:27).",
+    "האריה היה סמלה של אשתר; לאורך הדרך עמדו עשרות אריות כאלה משני הצדדים.",
+    "שער אשתר עצמו משוחזר במוזיאון פרגמון בברלין."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010145844",
+    "https://en.wikipedia.org/wiki/Ishtar_Gate",
+    "https://he.wikipedia.org/wiki/שער_אשתר"
+   ],
+   "order": 29
+  },
+  {
+   "key": "ebih_il",
+   "name_he": "פסל אביח-איל, המפקח ממארי",
+   "name_orig": "Nu-banda Ebih-Il",
+   "inv": "AO 17551 A",
+   "date": "בערך 2400 לפנה\"ס",
+   "place_of_origin": "מארי (תל חרירי), סוריה – מקדש אשתר",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 234,
+   "room_name": "Mari. Le nord de la Mésopotamie à l’époque Dynastique Archaïque (2600 – 2300 av. J.-C.)",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 234 - Mari. Le nord de la Mésopotamie à l’époque Dynastique Archaïque (2600 – 2300 av. J.-C.), Vitrine 1 Ebih-Il, nu-banda de Mari",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010120528",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Statue_of_Ebih-Il",
+    "he": null
+   },
+   "bible": null,
+   "tier": 1,
+   "desc_he": "פסל קטן (52 ס\"מ) מבהט של פקיד בשם אביח-איל, יושב בידיים שלובות ומתפלל, ועיניו משובצות צדף ולפיס לזולי. הכתובת על גבו: 'פסל אביח-איל, המפקח, לאשתר הקדיש'. אחד הפסלים החיים והמרגשים ביותר מהמזרח הקדום.",
+   "more_he": [
+    "הפסל נועד 'להתפלל במקומו' – להציב את דמותו לפני האלה לנצח.",
+    "הוא לובש חצאית 'קאונאקס' עשויה ציציות צמר, סמל לבוש של הזמן.",
+    "נמצא ב-23 בינואר 1934 בחפירות אנדרה פארו במארי.",
+    "ארכיון מארי (מאות שנים מאוחר יותר) מכיל דיווחים על נביאים שמעבירים דברי אל למלך – התופעה הקרובה ביותר לנבואה המקראית מחוץ לתנ\"ך.",
+    "חדר 234, וויטרינה 1."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010120528",
+    "https://en.wikipedia.org/wiki/Statue_of_Ebih-Il",
+    "https://he.wikipedia.org/wiki/מארי"
+   ],
+   "order": 30
+  },
+  {
+   "key": "stele_vultures",
+   "name_he": "מצבת העיטים",
+   "name_orig": "Stèle des vautours",
+   "inv": "AO 50",
+   "date": "בערך 2450 לפנה\"ס",
+   "place_of_origin": "גירסו (תלו), עיראק",
+   "wing": "Richelieu",
+   "level": 0,
+   "room": 236,
+   "room_name": "Mésopotamie archaïque (du néolithique à l'époque des dynasties archaïques de Sumer)",
+   "on_display": true,
+   "louvre_location_raw": "Richelieu, [AO] Salle 236 - Mésopotamie archaïque (du néolithique à l'époque des dynasties archaïques de Sumer), Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010121794",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Stele_of_the_Vultures",
+    "he": "https://he.wikipedia.org/wiki/מצבת_העיטים"
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "מצבת ניצחון של אאנתום, מלך לגש, על העיר השכנה אומה – אחד מתיאורי המלחמה הקדומים בעולם. בצד אחד צבא בשורות צפופות דורס גוויות, ומעליו עיטים נושאים ראשים כרותים.",
+   "more_he": [
+    "בצד השני האל נינגירסו לוכד את האויבים ברשת – כמו 'ופרשתי רשתי עליו' (יחזקאל יב:13).",
+    "המלחמה פרצה על סכסוך גבול על שדה מושקה – מאבק על מים ואדמה, לפני 4,500 שנה.",
+    "רק חלקים מהמצבה שרדו; שבר אחד שמור במוזיאון הבריטי.",
+    "חדר 236 – תחילת המסלול הכרונולוגי של מסופוטמיה."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010121794",
+    "https://en.wikipedia.org/wiki/Stele_of_the_Vultures",
+    "https://he.wikipedia.org/wiki/מצבת_העיטים"
+   ],
+   "order": 31
+  },
+  {
+   "key": "seated_scribe",
+   "name_he": "הסופר היושב",
+   "name_orig": "Le Scribe accroupi",
+   "inv": "E 3023",
+   "date": "השושלת הרביעית (לפי המוזיאון: 2675–2545 לפנה\"ס)",
+   "place_of_origin": "סקארה (מצרים)",
+   "wing": "Sully",
+   "level": 1,
+   "room": 635,
+   "room_name": "L'Ancien Empire",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 635 - L'Ancien Empire, Vitrine 10",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010006582",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/The_Seated_Scribe",
+    "he": "https://he.wikipedia.org/wiki/פסל_הלבלר_היושב"
+   },
+   "bible": null,
+   "tier": 1,
+   "desc_he": "פסל אבן גיר צבוע של סופר יושב ברגליים משוכלות, מגילת פפירוס פרושה על ברכיו. העיניים – גביש סלע, בהט ונחושת – נראות כאילו הן עוקבות אחרי המבקר.",
+   "more_he": [
+    "זהותו לא ידועה – הבסיס שעליו נכתב שמו לא נמצא.",
+    "נמצא ב-19 בנובמבר 1850 על ידי אוגוסט מרייט בסקארה, צפונית לסראפאום.",
+    "סופרים היו מעמד מיוחס במצרים; גם במקרא 'הסופר' הוא תפקיד בכיר בחצר המלך (שמואל ב ח:17).",
+    "נסו לזוז מצד לצד מול הפסל ולראות איך המבט 'נע' אחריכם."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010006582",
+    "https://en.wikipedia.org/wiki/The_Seated_Scribe",
+    "https://he.wikipedia.org/wiki/פסל_הלבלר_היושב"
+   ],
+   "order": 32
+  },
+  {
+   "key": "akhenaten_colossus",
+   "name_he": "פסל אחנתון מקרנך",
+   "name_orig": "Buste d'Akhénaton",
+   "inv": "E 27112",
+   "date": "בערך 1350 לפנה\"ס",
+   "place_of_origin": "מקדש אתון בקרנך המזרחית, תבאי",
+   "wing": "Sully",
+   "level": 1,
+   "room": 638,
+   "room_name": "Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 638 - Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti, Hors vitrine",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010003776",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Akhenaten",
+    "he": "https://he.wikipedia.org/wiki/אחנתון"
+   },
+   "bible": "תהלים קד:24",
+   "tier": 1,
+   "desc_he": "ראש ופלג גוף של אחנתון, הפרעה שזנח את אלי מצרים לטובת אל אחד – אתון, דיסקת השמש. הפנים המוארכות והשפתיים העבות הם הסגנון המהפכני של תקופת עמארנה.",
+   "more_he": [
+    "'ההמנון הגדול לאתון' מזכיר מאוד את תהלים קד: בהמנון 'כמה רבים מעשיך', ובתהלים 'מה רבו מעשיך ה''. החוקרים חלוקים אם יש קשר ישיר.",
+    "אחרי מותו ניסו יורשיו למחוק את זכרו – ותותנחאמון, כנראה בנו, חזר לאל אמון.",
+    "מצרים נתנה את הפסל ללובר ב-1972 במתנה.",
+    "חדר 638 מוקדש לאחנתון ולנפרתיתי – התחילו כאן ואז עברו לנפרתיתי."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010003776",
+    "https://en.wikipedia.org/wiki/Akhenaten",
+    "https://he.wikipedia.org/wiki/אחנתון"
+   ],
+   "order": 33
+  },
+  {
+   "key": "nefertiti_torso",
+   "name_he": "גוף אישה – כנראה נפרתיתי",
+   "name_orig": "Statue : corps de femme, probablement Néfertiti",
+   "inv": "E 25409",
+   "date": "בערך 1350–1330 לפנה\"ס (תקופת עמארנה)",
+   "place_of_origin": "מצרים (כנראה עמארנה)",
+   "wing": "Sully",
+   "level": 1,
+   "room": 638,
+   "room_name": "Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 638 - Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti, Vitrine 3",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010011420",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Nefertiti",
+    "he": "https://he.wikipedia.org/wiki/נפרתיתי"
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "פלג גוף נשי בבגד שקוף ודק כל כך שהגוף נראה דרכו – מופת של פיסול עמארנה. רוב החוקרים מזהים אותה עם נפרתיתי, אשת אחנתון.",
+   "more_he": [
+    "הראש חסר, ולכן הזיהוי מבוסס על הסגנון ועל ההקשר.",
+    "הראש המפורסם של נפרתיתי נמצא בברלין; כאן רואים את 'השפה' של אותו סדנה בגוף.",
+    "בוויטרינה 3 בחדר 638."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010011420",
+    "https://en.wikipedia.org/wiki/Nefertiti",
+    "https://he.wikipedia.org/wiki/נפרתיתי"
+   ],
+   "order": 34
+  },
+  {
+   "key": "merneptah_statuette",
+   "name_he": "פסלון מרנפתח נושא נס",
+   "name_orig": "Statue porte-enseigne de Mérenptah",
+   "inv": "E 25474",
+   "date": "ימי מרנפתח (סוף המאה ה-13 לפנה\"ס)",
+   "place_of_origin": "מצרים",
+   "wing": "Sully",
+   "level": 1,
+   "room": 641,
+   "room_name": "Le Nouvel Empire - Le temps des Ramsès",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 641 - Le Nouvel Empire - Le temps des Ramsès, Vitrine 8",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010007040",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Merneptah",
+    "he": "https://he.wikipedia.org/wiki/מרנפתח"
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "פסלון בהט קטן וצבוע של הפרעה מרנפתח, בנו של רעמסס השני. מרנפתח הוא מחבר 'מצבת ישראל' (בקהיר), שבה מופיע לראשונה מחוץ לתנ\"ך השם 'ישראל' – 'ישראל הושמד, אין לו זרע'.",
+   "more_he": [
+    "מצבת ישראל (בערך 1208 לפנה\"ס) מוכיחה שקבוצה בשם ישראל כבר ישבה בכנען בסוף המאה ה-13 לפנה\"ס.",
+    "את שמו של מרנפתח אפשר לראות גם על הספינקס מטניס בקומה ‎-1.",
+    "על הכתף – קרטוש עם שמו; יש שרידי צבע כחול ואדום.",
+    "חדר 641 ('תקופת הרעמסידים'), וויטרינה 8. בוויטרינה 6 באותו חדר יש גם מצבה של רעמסס השני כילד (N 522)."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010007040",
+    "https://en.wikipedia.org/wiki/Merneptah",
+    "https://he.wikipedia.org/wiki/מרנפתח"
+   ],
+   "order": 35
+  },
+  {
+   "key": "taharqa_hemen",
+   "name_he": "תהרקה מגיש יין לאל חמן",
+   "name_orig": "Taharqa et Hémen",
+   "inv": "E 25276",
+   "date": "690–664 לפנה\"ס (השושלת ה-25)",
+   "place_of_origin": "מצרים",
+   "wing": "Sully",
+   "level": 1,
+   "room": 643,
+   "room_name": "De l'an mille à la première domination perse",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AE] Salle 643 - De l'an mille à la première domination perse, Vitrine 13",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010002359",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Taharqa",
+    "he": "https://he.wikipedia.org/wiki/תהרקה"
+   },
+   "bible": "מלכים ב יט:9",
+   "tier": 1,
+   "desc_he": "פסלון ברונזה של המלך הכושי תהרקה, כורע ומגיש שני כדי יין לאל-הבז חמן המצופה זהב. תהרקה מופיע במקרא: כשסנחריב צר על ירושלים בימי חזקיהו, 'וישמע אל תרהקה מלך כוש לאמר יצא להלחם אתך'.",
+   "more_he": [
+    "תהרקה היה פרעה מהשושלת הכושית (נובית) שמשלה במצרים – 'מלך כוש' בלשון המקרא.",
+    "הסיפור מופיע פעמיים: מלכים ב יט:9 וישעיהו לז:9.",
+    "שילוב חומרים נדיר: המלך מברונזה, האל מאבן ומצופה זהב, והבסיס מעץ מצופה כסף.",
+    "חדר 643, וויטרינה 13 – קרוב לסוף המסלול המצרי בקומה 1."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010002359",
+    "https://en.wikipedia.org/wiki/Taharqa",
+    "https://he.wikipedia.org/wiki/תהרקה"
+   ],
+   "order": 36
+  },
+  {
+   "key": "sarcophagus_spouses",
+   "name_he": "ארון הקבורה של בני הזוג",
+   "name_orig": "Sarcophage des époux",
+   "inv": "Cp 5194",
+   "date": "520–510 לפנה\"ס",
+   "place_of_origin": "צ'רווטרי (קיירה), איטליה – נקרופוליס בנדיטצ'ה",
+   "wing": "Sully",
+   "level": 1,
+   "room": 663,
+   "room_name": "Salle des Séances",
+   "on_display": true,
+   "louvre_location_raw": "Sully, [AGER] Salle 663 - Salle des Séances, Vitrine 32",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010298047",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Sarcophagus_of_the_Spouses",
+    "he": null
+   },
+   "bible": null,
+   "tier": 2,
+   "desc_he": "בני זוג אטרוסקים שוכבים יחד כמו בסעודה, מחייכים, הוא מחבק אותה. ארון חרס צבוע בגודל טבעי, שמראה מעמד שוויוני יחסית של האישה בחברה האטרוסקית.",
+   "more_he": [
+    "למרות השם, כנראה מדובר בגלוסקמה לאפר ולא בארון לגוף שלם.",
+    "נוצר מכמה חלקי חרס שנשרפו בנפרד בכבשן.",
+    "נמצא ב-1845–1846 ונרכש עם אוסף המרקיז קמפנה ב-1861.",
+    "חדר 663 (אגף סולי, קומה 1). שימו לב: גלריית קמפנה הסמוכה סגורה, אבל אגף האטרוסקים פתוח לפי לוח החדרים של נובמבר 2026."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010298047",
+    "https://en.wikipedia.org/wiki/Sarcophagus_of_the_Spouses"
+   ],
+   "order": 37
+  },
+  {
+   "key": "winged_victory",
+   "name_he": "ניקה (הניצחון) מסמותרקה",
+   "name_orig": "Victoire de Samothrace",
+   "inv": "Ma 2369",
+   "date": "200–175 לפנה\"ס",
+   "place_of_origin": "סמותרקה, יוון (מקדש האלים הגדולים)",
+   "wing": "Denon",
+   "level": 1,
+   "room": 703,
+   "room_name": "Palier Samothrace",
+   "on_display": true,
+   "louvre_location_raw": "Denon, [AGER] Salle 703 - Palier Samothrace, Salle 703 - Niveau supérieur est",
+   "status_note_he": null,
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010252531",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace",
+    "he": "https://he.wikipedia.org/wiki/ניקה_מסמותרקיה"
+   },
+   "bible": null,
+   "tier": 1,
+   "desc_he": "אלת הניצחון נוחתת על חרטום ספינת מלחמה, הבגד נצמד לגופה ברוח. הפסל הוצב כנראה לזכר ניצחון ימי, וכיום הוא שולט במדרגות דרו.",
+   "more_he": [
+    "נמצא ב-1863 בידי שארל שאמפואזו בשברים; החרטום הגיע ללובר רק ב-1879.",
+    "הפסל והבסיס יחד מתנשאים לגובה 5.64 מ' ושוקלים לפי ההערכה כשני טון.",
+    "השערה אחת: הפסל מנציח ניצחון של רודוס על הצי של אנטיוכוס השלישי (190 לפנה\"ס) – אביו של אנטיוכוס אפיפנס, היריב של המכבים. זה לא מוכח.",
+    "יד ימין שלה נמצאה ב-1950 ומוצגת בוויטרינה ליד הפסל."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010252531",
+    "https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace",
+    "https://he.wikipedia.org/wiki/ניקה_מסמותרקיה"
+   ],
+   "order": 38
+  },
+  {
+   "key": "regent_diamond",
+   "name_he": "יהלום הרג'נט ותכשיטי הכתר",
+   "name_orig": "Diamant, dit « le Régent »",
+   "inv": "MV 1017",
+   "date": "נחצב ב-1698; לוטש 1704–1706",
+   "place_of_origin": "מכרות גולקונדה, הודו (לוטש באנגליה)",
+   "wing": "Denon",
+   "level": 1,
+   "room": null,
+   "room_name": "Galerie d'Apollon",
+   "on_display": false,
+   "louvre_location_raw": "non exposé",
+   "status_note_he": "לא מוצג: גלריית אפולו פתוחה (לפי לוח החדרים לנובמבר 2026) אך בלי תכשיטים; היהלום מסומן 'לא מוצג' באתר האוסף.",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010103121",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Regent_Diamond",
+    "he": null
+   },
+   "bible": null,
+   "tier": 3,
+   "desc_he": "יהלום של כ-140 קראט, מהטהורים בעולם, שעיטר את כתר לואי ה-15 ואת חרבו של נפוליאון. הוא לא נגנב בשוד של 19 באוקטובר 2025 – אבל הוא לא מוצג כרגע.",
+   "more_he": [
+    "ב-19 באוקטובר 2025 פרצו גנבים לגלריית אפולו ונטלו שמונה תכשיטים מאוסף תכשיטי הכתר; הרג'נט, יהלומי סנסי והורטנסיה לא נלקחו.",
+    "גלריית אפולו נפתחה מחדש ב-22 ביולי 2026 – בלי תכשיטים. המוזיאון מתכנן חדר חדש ומאובטח לתכשיטים, ונכון לבדיקה לא פורסם מועד פתיחה.",
+    "באתר האוסף היהלום מסומן 'לא מוצג'. אפשר להיכנס לגלריית אפולו כדי לראות את התקרות והקישוטים.",
+    "היהלום נמצא ב-1698 והגיע לתומאס פיט, מושל מדרס; העוצר פיליפ ד'אורליאן קנה אותו ב-1717 – ומכאן שמו."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010103121",
+    "https://en.wikipedia.org/wiki/Regent_Diamond",
+    "https://www.afar.com/magazine/what-to-know-about-visiting-louvres-reopened-apollo-gallery",
+    "https://abcnews.com/International/wireStory/louvre-reopens-apollo-gallery-after-brazen-heist-jewels-134975099",
+    "https://en.wikipedia.org/wiki/2025_Louvre_heist",
+    "https://www.louvre.fr/en/visit/list-of-available-galleries"
+   ],
+   "order": 39
+  },
+  {
+   "key": "baptistere_saint_louis",
+   "name_he": "'האגן הטבילה של סן לואי'",
+   "name_orig": "Bassin dit « Baptistère de Saint Louis »",
+   "inv": "LP 16",
+   "date": "1325–1340",
+   "place_of_origin": "סוריה או מצרים הממלוכית",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": false,
+   "louvre_location_raw": "non exposé",
+   "status_note_he": "לא מוצג: מחלקת האמנות האסלאמית סגורה לשיפוץ; האגן כנראה מושאל לתערוכה בארה\"ב.",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010318774",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Baptistère_de_Saint_Louis",
+    "he": null
+   },
+   "bible": null,
+   "tier": 3,
+   "desc_he": "אגן פליז משובץ כסף וזהב מהתקופה הממלוכית, חתום בידי האמן מוחמד אבן א-זין. מלכי צרפת השתמשו בו לטבילת ילדי המלוכה – אבל הוא לא שייך לסן לואי, שמת עשרות שנים לפני שנוצר.",
+   "more_he": [
+    "החתימה: 'עבודת המאסטר מוחמד בן א-זין, ייסלח לו'.",
+    "על האגן פרשים, ציידים ובעלי חיים – תמונה של חצר הסולטן הממלוכי.",
+    "ב-1856 הוטבל בו בנו של נפוליאון השלישי.",
+    "מחלקת האמנות האסלאמית (דנון, קומות ‎-1 ו-‎-2) סגורה לשיפוץ; האגן מסומן 'לא מוצג' ומופיע כתמונה הראשית של תערוכת הלובר-סמיתסוניאן בארה\"ב (26.9.2026–18.1.2027).",
+    "חלופה: התערוכה 'Affinités' במחלקת אמנות השימוש מציגה כ-50 פריטים מהמחלקה האסלאמית עד 6.12.2026."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010318774",
+    "https://en.wikipedia.org/wiki/Baptistère_de_Saint_Louis",
+    "https://aflouvre.org/exhibition/from-the-louvre-masterpieces-of-islamic-art/",
+    "https://louvre.fr/expositions-et-evenements/expositions/affinites-0",
+    "https://www.louvre.fr/en/visit/list-of-available-galleries"
+   ],
+   "order": 40
+  },
+  {
+   "key": "saddan_sarcophagus",
+   "name_he": "ארון 'צדן מלכתא' מקברי המלכים בירושלים",
+   "name_orig": "Sarcophage de la reine Saddan",
+   "inv": "AO 5029",
+   "date": "המאה ה-1 לספירה",
+   "place_of_origin": "קברי המלכים, ירושלים",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": false,
+   "louvre_location_raw": "non exposé",
+   "status_note_he": "לא מוצג לפי אתר האוסף.",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010165751",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Helena_of_Adiabene",
+    "he": "https://he.wikipedia.org/wiki/הלני_המלכה"
+   },
+   "bible": null,
+   "tier": 3,
+   "desc_he": "ארון אבן מקברי המלכים בירושלים, ועליו כתובת בארמית 'צדן מלכתא' (המלכה צדן) ובכתב עברי מרובע 'צדה מלכתה'. מקובל לקשר את הקבר להֵלני מלכת חדיב, שהתגיירה ועלתה לירושלים בימי הבית השני.",
+   "more_he": [
+    "פליסיין דה סולסי מצא את הארון ב-8 בדצמבר 1863 באחד מחדרי הקבר.",
+    "הלני המלכה מוזכרת במשנה: היא תרמה לבית המקדש נברשת זהב (משנה יומא ג:10), ויוסף בן מתתיהו מתאר את עזרתה לירושלים בשנת בצורת.",
+    "הזיהוי של 'צדן' עם הלני שנוי במחלוקת – ייתכן שזו אישה אחרת מבית המלוכה של חדיב.",
+    "באתר האוסף הארון מסומן 'לא מוצג', והתיק מציין שהארגז והמכסה נארזו בנפרד כשחדר 181 נסגר."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010165751",
+    "https://en.wikipedia.org/wiki/Helena_of_Adiabene",
+    "https://he.wikipedia.org/wiki/הלני_המלכה",
+    "https://he.wikipedia.org/wiki/קברי_המלכים"
+   ],
+   "order": 41
+  },
+  {
+   "key": "bawit_church",
+   "name_he": "כנסיית באוויט – אמנות קופטית",
+   "name_orig": "Église de Baouit (éléments architecturaux)",
+   "inv": "E 16965 (כותרת עמוד, לדוגמה)",
+   "date": "480–630 לספירה (התקופה הביזנטית)",
+   "place_of_origin": "מנזר אפא אפולו בבאוויט, מצרים התיכונה",
+   "wing": null,
+   "level": null,
+   "room": null,
+   "room_name": null,
+   "on_display": "unknown",
+   "louvre_location_raw": "non exposé",
+   "status_note_he": "לא מאומת: רכיבי באוויט שנבדקו מסומנים 'לא מוצג'; חדר הכנסייה המשוחזרת לא אומת.",
+   "collection_url": "https://collections.louvre.fr/ark:/53355/cl010045191",
+   "wikipedia_url": {
+    "en": "https://en.wikipedia.org/wiki/Bawit",
+    "he": null
+   },
+   "bible": null,
+   "tier": 3,
+   "desc_he": "חלקי אבן מגולפים מהכנסייה הדרומית של מנזר באוויט – מהמנזרים הנוצריים הגדולים במצרים של ימי קדם. הם מראים איך הנצרות המצרית (הקופטית) המשיכה מסורות אמנות מצריות ויווניות.",
+   "more_he": [
+    "החפירות בבאוויט התחילו ב-1901, ומאז 2002 הן מתנהלות שוב בשיתוף הלובר והמכון הצרפתי לארכאולוגיה מזרחית.",
+    "המוטיבים – גפנים, עלי אקנתוס וצלבים – חלקם 'יורשים' של אמנות פגנית.",
+    "כל ארבעת רכיבי באוויט שבדקנו באתר האוסף (E 16965, E 16916, E 17060, E 17064) מסומנים 'לא מוצג'. לא הצלחנו לאמת שחדר הכנסייה המשוחזרת פתוח, ולא אם יש לה מספר חדר."
+   ],
+   "sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010045191",
+    "https://en.wikipedia.org/wiki/Bawit",
+    "https://collections.louvre.fr/ark:/53355/cl010048746",
+    "https://collections.louvre.fr/ark:/53355/cl010485581",
+    "https://collections.louvre.fr/ark:/53355/cl010050893",
+    "https://www.louvre.fr/recherche-et-conservation/vie-des-projets/reprise-des-fouilles-a-baouit-moyenne-egypte"
+   ],
+   "order": 42
+  }
+ ]
+}
